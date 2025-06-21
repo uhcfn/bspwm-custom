@@ -48,3 +48,4 @@ ttf-iosevka-nerd
 breeze
 firefox
 nano
+python3
