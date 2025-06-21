@@ -1,17 +1,8 @@
 #!/bin/bash
 
-# Проверка на root
-if [[ $EUID -ne 0 ]]; then
-   echo "Пожалуйста, запускай скрипт с sudo или от root"
-   exit 1
-fi
-
-echo "📦 Обновляем систему..."
 pacman -Syu --noconfirm
 
-echo "📦 Устанавливаем необходимые пакеты..."
-
-sudo pacman -S --noconfirm --needed \
+sudo pacman -S \
   xorg-server xorg-xinit bspwm sxhkd \
   alacritty polybar rofi picom \
   dunst feh \
@@ -23,6 +14,3 @@ sudo pacman -S --noconfirm --needed \
   flameshot scrot redshift tree bat htop unrar xarchiver p7zip zathura \
   lxappearance papirus-icon-theme
 
-
-echo "✅ Установка завершена."
-echo "🚀 Теперь можешь копировать свои конфиги и запускать bspwm через startx"
