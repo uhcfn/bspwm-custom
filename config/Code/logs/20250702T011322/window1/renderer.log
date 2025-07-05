@@ -1,0 +1,323 @@
+2025-07-02 01:13:24.057 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-02 01:13:24.083 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-02 01:13:24.084 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-02 01:13:24.936 [info] Started local extension host with pid 8339.
+2025-07-02 01:13:25.231 [info] ComputeTargetPlatform: linux-x64
+2025-07-02 01:13:28.308 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-02 01:13:34.647 [error] [Extension Host] (node:8339) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-07-02 01:13:46.550 [error] Error while getting the latest version for the extension cardinal90.multi-cursor-case-preserve from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-02 01:13:46.563 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-02 01:13:46.572 [error] Error while getting the latest version for the extension github.copilot from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-02 01:13:46.583 [error] Error while getting the latest version for the extension github.copilot-chat from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-02 01:13:46.589 [error] Error while getting the latest version for the extension ms-ceintl.vscode-language-pack-ru from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-02 01:13:46.592 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-02 01:13:46.601 [error] Error while getting the latest version for the extension xabikos.javascriptsnippets from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-02 01:13:56.554 [error] Error while getting the latest version for the extension cardinal90.multi-cursor-case-preserve. Fetch timeout: 10000ms
+2025-07-02 01:13:56.564 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Fetch timeout: 10000ms
+2025-07-02 01:13:56.570 [error] Error while getting the latest version for the extension github.copilot. Fetch timeout: 10000ms
+2025-07-02 01:13:56.581 [error] Error while getting the latest version for the extension github.copilot-chat. Fetch timeout: 10000ms
+2025-07-02 01:13:56.589 [error] Error while getting the latest version for the extension ms-ceintl.vscode-language-pack-ru. Fetch timeout: 10000ms
+2025-07-02 01:13:56.594 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Fetch timeout: 10000ms
+2025-07-02 01:13:56.599 [error] Error while getting the latest version for the extension xabikos.javascriptsnippets. Fetch timeout: 10000ms
+2025-07-02 01:15:43.080 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-07-02 01:15:43.084 [error] [chat entitlement] request: error TypeError: Failed to fetch
+2025-07-02 01:15:43.085 [error] Failed to fetch entitlements Failed to fetch
+2025-07-02 01:15:43.087 [error] Failed to fetch token entitlements Failed to fetch
+2025-07-02 01:15:43.094 [error] [chat entitlement] request: error TypeError: Failed to fetch
+2025-07-02 01:15:43.862 [info] [perf] Render performance baseline is 68ms
+2025-07-02 01:20:43.083 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 01:27:47.693 [info] Started local extension host with pid 19950.
+2025-07-02 01:27:49.975 [error] No registered selector for ID: ms-vscode.npm-command
+2025-07-02 01:27:54.971 [error] [Extension Host] (node:19950) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-07-02 01:27:58.140 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-07-02 01:27:58.141 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-07-02 01:27:58.161 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-07-02 01:27:58.161 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-07-02 01:53:30.927 [error] [LanguageModelToolsService#invokeTool] Error from tool copilot_createFile with parameters {"content":"body {\n\tfont-family: sans-serif;\n\tmargin: 0;\n\tbackground: #d3d3d3;\n}\n.container {\n\tmax-width: 1100px;\n\tmargin: 30px auto;\n\tbackground: #d3d3d3;\n\tborder: 2px solid #444;\n\tdisplay: flex;\n\tmin-height: 90vh;\n}\n.sidebar {\n\twidth: 270px;\n\tbackground: #6e8b87;\n\tborder-right: 2px solid #444;\n\tpadding: 0 0 20px 0;\n\tdisplay: flex;\n\tflex-direction: column;\n\talign-items: center;\n}\n.logo {\n\tmargin: 20px 0 10px 0;\n\twidth: 220px;\n\theight: auto;\n}\n.nav-menu {\n\twidth: 90%;\n\tmargin-top: 10px;\n\tdisplay: flex;\n\tflex-direction: column;\n\tgap: 10px;\n}\n.nav-btn {\n\tbackground: #7a968f;\n\tcolor: #fff;\n\tborder: none;\n\tpadding: 12px 0;\n\tborder-radius: 4px;\n\tfont-size: 1.1em;\n\tcursor: pointer;\n\ttransition: background 0.2s;\n}\n.nav-btn.active, .nav-btn:hover {\n\tbackground: #3e4e4b;\n\tcolor: #f5e6e6;\n}\n.main-content {\n\tflex: 1;\n\tpadding: 30px 40px;\n\tbackground: #e0e0e0;\n}\n.card {\n\tbackground: #fff;\n\tborder-radius: 10px;\n\tbox-shadow: 0 2px 8px rgba(0,0,0,0.08);\n\tpadding: 30px;\n}\nfooter {\n\ttext-align: center;\n\tmargin: 20px 0 0 0;\n\tfont-size: 14px;\n\tcolor: #666;\n}\n","filePath":"/home/uhcfn/project_VS/style.css"}:
+File already exists. You must use an edit tool to modify it.: Error: File already exists. You must use an edit tool to modify it.
+    at VK.invoke (/home/uhcfn/.vscode/extensions/github.copilot-chat-0.28.3/dist/extension.js:1402:2582)
+    at Jq.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2696)
+2025-07-02 01:53:31.397 [error] [LanguageModelToolsService#invokeTool] Error from tool copilot_createFile with parameters {"content":"document.addEventListener('DOMContentLoaded', function() {\n\tconst navBtns = document.querySelectorAll('.nav-btn');\n\tnavBtns.forEach(btn => {\n\t\tbtn.addEventListener('click', function() {\n\t\t\tnavBtns.forEach(b => b.classList.remove('active'));\n\t\t\tthis.classList.add('active');\n\t\t});\n\t});\n});\n","filePath":"/home/uhcfn/project_VS/script.js"}:
+File already exists. You must use an edit tool to modify it.: Error: File already exists. You must use an edit tool to modify it.
+    at VK.invoke (/home/uhcfn/.vscode/extensions/github.copilot-chat-0.28.3/dist/extension.js:1402:2582)
+    at Jq.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2696)
+2025-07-02 02:16:34.575 [error] [LanguageModelToolsService#invokeTool] Error from tool copilot_createFile with parameters {"content":"<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n\t<meta charset=\"UTF-8\" />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\t<title>О Нас | Kendo Kyrgyzstan</title>\n\t<link rel=\"stylesheet\" href=\"style.css\" />\n</head>\n<body>\n\t<div class=\"header-wrap\">\n\t\t<div class=\"navbar\">\n\t\t\t<img src=\"cropped-logo_a3-1-removebg-preview.png\" alt=\"Логотип\" class=\"logo\" />\n\t\t\t<nav class=\"nav-menu\">\n\t\t\t\t<a href=\"index.html\"><button class=\"nav-btn\">Добро Пожаловать</button></a>\n\t\t\t\t<a href=\"about.html\"><button class=\"nav-btn active\">О Нас</button></a>\n\t\t\t\t<a href=\"news.html\"><button class=\"nav-btn\">Новости</button></a>\n\t\t\t\t<a href=\"trainings.html\"><button class=\"nav-btn\">Тренировки</button></a>\n\t\t\t\t<a href=\"photo.html\"><button class=\"nav-btn\">Фото</button></a>\n\t\t\t\t<a href=\"contact.html\"><button class=\"nav-btn\">Контакт</button></a>\n\t\t\t\t<a href=\"links.html\"><button class=\"nav-btn\">Ссылки</button></a>\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n\t<main class=\"main-content\">\n\t\t<div class=\"card\">\n\t\t\t<h2>О Федерации Кендо Кыргызстана</h2>\n\t\t\t<p>Федерация Кендо Кыргызстана была основана в 2008 году и с тех пор активно развивает японское искусство меча в стране. Мы объединяем энтузиастов, проводим тренировки, семинары и соревнования, а также поддерживаем международные связи с ведущими мастерами Кендо.</p>\n\t\t</div>\n\t</main>\n\t<footer>© 2025 Кыргызская Федерация Кендо</footer>\n\t<script src=\"script.js\"></script>\n</body>\n</html>\n","filePath":"/home/uhcfn/project_VS/about.html"}:
+File already exists. You must use an edit tool to modify it.: Error: File already exists. You must use an edit tool to modify it.
+    at VK.invoke (/home/uhcfn/.vscode/extensions/github.copilot-chat-0.28.3/dist/extension.js:1402:2582)
+    at Jq.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2696)
+2025-07-02 02:17:07.638 [error] [LanguageModelToolsService#invokeTool] Error from tool copilot_createFile with parameters {"content":"","filePath":"/home/uhcfn/project_VS/iaido.html"}:
+File already exists. You must use an edit tool to modify it.: Error: File already exists. You must use an edit tool to modify it.
+    at VK.invoke (/home/uhcfn/.vscode/extensions/github.copilot-chat-0.28.3/dist/extension.js:1402:2582)
+    at Jq.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2696)
+2025-07-02 04:36:16.851 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 04:41:16.862 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 04:46:16.872 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 04:51:16.882 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 04:56:16.892 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:01:16.902 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:06:16.911 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:11:16.921 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:16:16.931 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:21:16.941 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:26:16.950 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:31:16.960 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:36:16.970 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:41:16.979 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:46:16.989 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:51:16.999 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 05:56:17.009 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:01:17.016 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:06:17.025 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:11:17.033 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:16:17.042 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:21:17.051 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:26:17.058 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:31:17.066 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:36:17.074 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:41:17.082 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:46:17.089 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:51:17.096 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 06:56:17.105 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:01:17.113 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:06:17.123 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:11:17.131 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:16:17.138 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:21:17.146 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:26:17.155 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:31:17.163 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:36:17.171 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:41:17.180 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:46:17.189 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:51:17.196 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 07:56:17.205 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:01:17.214 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:06:17.221 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:11:17.229 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:16:17.237 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:21:17.243 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:26:17.252 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:31:17.260 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:36:17.268 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:41:17.276 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:46:17.284 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:51:17.292 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 08:56:17.300 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 09:01:17.309 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 09:06:17.317 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 09:11:17.326 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 09:16:17.334 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 09:21:17.342 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 09:26:17.351 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 09:31:17.359 [warning] Failed to fetch chat participant registry Offline
+2025-07-02 18:12:39.163 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-07-02 18:12:39.164 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-07-02 18:12:39.232 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-07-02 18:12:39.233 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-07-02 22:45:30.376 [error] ChatSessionStore: Error reading chat session file c8a0fd3a-cb37-401f-8062-1a4ee6e3b382 Не удалось считать файл "/home/uhcfn/.config/Code/User/workspaceStorage/a379a0b3082275331166fbf705c9333a/chatSessions/c8a0fd3a-cb37-401f-8062-1a4ee6e3b382.json" (Error: Невозможно разрешить несуществующий файл "/home/uhcfn/.config/Code/User/workspaceStorage/a379a0b3082275331166fbf705c9333a/chatSessions/c8a0fd3a-cb37-401f-8062-1a4ee6e3b382.json")
+2025-07-02 22:52:28.432 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 06:02:40.419 [error] Unexpected type: Error: Unexpected type
+    at ii (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1100)
+    at Jnt.P (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:42195)
+    at Jnt.getEditorIntegration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:23087)
+    at mw._computeFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:19523)
+    at mw.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:26222)
+    at mw.get (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25841)
+    at Noe.readObservable (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:23218)
+    at mw.read (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:17517)
+    at Noe._runFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:16183)
+    at Noe.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22268)
+2025-07-03 06:02:44.552 [error] Unexpected type: Error: Unexpected type
+    at ii (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1100)
+    at Jnt.P (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:42195)
+    at Jnt.getEditorIntegration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:23087)
+    at mw._computeFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:19523)
+    at mw.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:26222)
+    at mw.get (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25841)
+    at Noe.readObservable (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:23218)
+    at mw.read (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:17517)
+    at Noe._runFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:16183)
+    at Noe.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22268)
+2025-07-03 06:02:46.857 [error] Unexpected type: Error: Unexpected type
+    at ii (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1100)
+    at Jnt.P (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:42195)
+    at Jnt.getEditorIntegration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:23087)
+    at mw._computeFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:19523)
+    at mw.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:26222)
+    at mw.get (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25841)
+    at Noe.readObservable (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:23218)
+    at mw.read (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:17517)
+    at Noe._runFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:16183)
+    at Noe.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22268)
+2025-07-03 06:02:50.347 [error] Unexpected type: Error: Unexpected type
+    at ii (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1100)
+    at Jnt.P (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:42195)
+    at Jnt.getEditorIntegration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:23087)
+    at mw._computeFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:19523)
+    at mw.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:26222)
+    at mw.get (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25841)
+    at Noe.readObservable (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:23218)
+    at mw.read (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:17517)
+    at Noe._runFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:16183)
+    at Noe.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22268)
+2025-07-03 06:02:51.414 [error] Unexpected type: Error: Unexpected type
+    at ii (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1100)
+    at Jnt.P (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:42195)
+    at Jnt.getEditorIntegration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:23087)
+    at mw._computeFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:19523)
+    at mw.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:26222)
+    at mw.get (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25841)
+    at Noe.readObservable (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:23218)
+    at mw.read (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:17517)
+    at Noe._runFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2041:16183)
+    at Noe.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22268)
+2025-07-03 18:38:09.131 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 18:43:09.140 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 18:48:09.149 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 18:53:09.157 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 18:58:09.166 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:03:09.174 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:08:09.183 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:13:09.191 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:18:09.199 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:23:09.206 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:28:09.215 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:33:09.223 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:38:09.230 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:43:09.236 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:48:09.244 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:53:09.253 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 19:58:09.261 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:03:09.269 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:08:09.277 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:13:09.285 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:18:09.293 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:23:09.302 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:28:09.310 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:33:09.320 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:38:09.327 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:43:09.335 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:48:09.344 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:53:09.353 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 20:58:09.362 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:03:09.369 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:08:09.378 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:13:09.387 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:18:09.393 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:23:09.402 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:28:09.411 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:33:09.419 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:38:09.427 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:43:09.434 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:48:09.442 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:53:09.449 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 21:58:09.458 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:03:09.467 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:08:09.475 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:13:09.482 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:18:09.489 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:23:09.495 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:28:09.502 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:33:09.510 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:38:09.519 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:43:09.527 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:48:09.535 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:53:09.543 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 22:58:09.552 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:03:09.560 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:08:09.567 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:13:09.575 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:18:09.584 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:23:09.592 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:28:09.600 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:33:09.607 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:38:09.616 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:43:09.625 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:48:09.632 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:53:09.641 [warning] Failed to fetch chat participant registry Offline
+2025-07-03 23:58:09.649 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 00:02:05.169 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-07-04 00:02:05.170 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-07-04 00:02:05.229 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-07-04 00:02:05.230 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-07-04 03:25:00.814 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 03:30:00.822 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 03:35:00.830 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 03:40:00.838 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 03:45:00.845 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 03:50:00.854 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 03:55:00.863 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:00:00.871 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:05:00.879 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:10:00.886 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:15:00.894 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:20:00.901 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:25:00.907 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:30:00.916 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:35:00.922 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:40:00.930 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:45:00.940 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:50:00.949 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 04:55:00.958 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:00:00.966 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:05:00.974 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:10:00.983 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:15:00.997 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:20:01.003 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:25:01.012 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:30:01.020 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:35:01.028 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:40:01.036 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:45:01.044 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:50:01.053 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 05:55:01.061 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:00:01.068 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:05:01.076 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:10:01.084 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:15:01.092 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:20:01.098 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:25:01.107 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:30:01.115 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:35:01.122 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:40:01.132 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:45:01.139 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:50:01.148 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 06:55:01.156 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:00:01.173 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:05:01.178 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:10:01.320 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:15:01.516 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:20:01.511 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:25:01.520 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:30:01.528 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:35:01.537 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:40:01.545 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:45:01.554 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:50:01.561 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 07:55:01.569 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:00:01.575 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:05:01.582 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:10:01.590 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:15:01.598 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:20:01.606 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:25:01.615 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:30:01.623 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:35:01.629 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:40:01.635 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:45:01.644 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:50:01.652 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 08:55:01.661 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 09:00:01.670 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 09:05:01.679 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 09:10:01.686 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 09:15:01.694 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 09:20:01.701 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 09:25:01.710 [warning] Failed to fetch chat participant registry Offline
+2025-07-04 09:30:01.719 [warning] Failed to fetch chat participant registry Offline
+2025-07-05 07:27:35.528 [warning] Failed to fetch chat participant registry Offline
+2025-07-05 07:32:35.537 [warning] Failed to fetch chat participant registry Offline
+2025-07-05 07:33:44.243 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-07-05 07:33:44.243 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-07-05 07:33:44.298 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-07-05 07:33:44.299 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

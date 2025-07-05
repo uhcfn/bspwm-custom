@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Фото | Kendo Kyrgyzstan</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+	<body>
+		<header>
+			<nav>
+				<ul
+					style="
+						display: flex;
+						gap: 16px;
+						list-style: none;
+						padding: 0;
+						margin: 0;
+						align-items: center;
+					"
+				>
+					<li><a href="index.html">Главная</a></li>
+					<li><a href="about.html">О Нас</a></li>
+					<li><a href="iaido.html">Иайдо</a></li>
+					<li><a href="news.html">Новости</a></li>
+					<li><a href="trainings.html">Тренировки</a></li>
+					<li><a href="photo.html">Фото</a></li>
+					<li><a href="contact.html">Контакт</a></li>
+					<li><a href="links.html">Ссылки</a></li>
+				</ul>
+			</nav>
+		</header>
+		<main style="max-width: 900px; margin: 32px auto">
+			<h1>Фото</h1>
+			<div
+				style="
+					display: flex;
+					flex-wrap: wrap;
+					gap: 18px;
+					justify-content: center;
+				"
+			>
+				<img
+					src="https://kendo-kg.github.io/img/gallery/big/1.jpg"
+					alt="Фото 1"
+					style="
+						border-radius: 10px;
+						width: 180px;
+						height: 120px;
+						object-fit: cover;
+						box-shadow: 0 2px 8px rgba(110, 139, 135, 0.13);
+					"
+				/>
+				<img
+					src="https://kendo-kg.github.io/img/gallery/big/2.jpg"
+					alt="Фото 2"
+					style="
+						border-radius: 10px;
+						width: 180px;
+						height: 120px;
+						object-fit: cover;
+						box-shadow: 0 2px 8px rgba(110, 139, 135, 0.13);
+					"
+				/>
+				<img
+					src="https://kendo-kg.github.io/img/gallery/big/3.jpg"
+					alt="Фото 3"
+					style="
+						border-radius: 10px;
+						width: 180px;
+						height: 120px;
+						object-fit: cover;
+						box-shadow: 0 2px 8px rgba(110, 139, 135, 0.13);
+					"
+				/>
+				<img
+					src="https://kendo-kg.github.io/img/gallery/big/4.jpg"
+					alt="Фото 4"
+					style="
+						border-radius: 10px;
+						width: 180px;
+						height: 120px;
+						object-fit: cover;
+						box-shadow: 0 2px 8px rgba(110, 139, 135, 0.13);
+					"
+				/>
+				<img
+					src="https://kendo-kg.github.io/img/gallery/big/5.jpg"
+					alt="Фото 5"
+					style="
+						border-radius: 10px;
+						width: 180px;
+						height: 120px;
+						object-fit: cover;
+						box-shadow: 0 2px 8px rgba(110, 139, 135, 0.13);
+					"
+				/>
+				<img
+					src="https://kendo-kg.github.io/img/gallery/big/6.jpg"
+					alt="Фото 6"
+					style="
+						border-radius: 10px;
+						width: 180px;
+						height: 120px;
+						object-fit: cover;
+						box-shadow: 0 2px 8px rgba(110, 139, 135, 0.13);
+					"
+				/>
+			</div>
+		</main>
+		<footer style="text-align: center; margin-top: 48px">
+			© 2025 Кыргызская Федерация Кендо
+		</footer>
+	</body>
+</html>

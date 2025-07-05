@@ -1,0 +1,50 @@
+2025-06-28 18:09:52.458 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 18:09:52.485 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 18:09:52.486 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 18:09:54.373 [info] Started local extension host with pid 1363.
+2025-06-28 18:09:54.591 [info] ComputeTargetPlatform: linux-x64
+2025-06-28 18:09:59.361 [error] [Extension Host] (node:1363) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-28 18:10:03.111 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-28 18:10:03.852 [info] [perf] Render performance baseline is 73ms
+2025-06-28 18:10:05.071 [info] Extension host (LocalProcess pid: 1363) is unresponsive.
+2025-06-28 18:10:06.652 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-28 18:10:06.824 [info] Extension host (LocalProcess pid: 1363) is responsive.
+2025-06-28 18:10:06.824 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-28 18:10:07.089 [warning] UNRESPONSIVE extension host: 'esbenp.prettier-vscode' took 48.47398491486383% of 85.861ms, saved PROFILE here: 'file:///tmp/exthost-354a4c.cpuprofile'
+2025-06-28 18:10:20.631 [info] Started local extension host with pid 1857.
+2025-06-28 18:10:23.486 [info] Started local extension host with pid 1930.
+2025-06-28 18:10:26.077 [error] No registered selector for ID: ms-vscode.npm-command
+2025-06-28 18:10:30.582 [info] Extension host (LocalProcess pid: 1930) is unresponsive.
+2025-06-28 18:10:31.696 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-28 18:10:31.731 [info] Extension host (LocalProcess pid: 1930) is responsive.
+2025-06-28 18:10:31.732 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-28 18:10:31.920 [warning] UNRESPONSIVE extension host: 'esbenp.prettier-vscode' took 39.25580221997982% of 15.561ms, saved PROFILE here: 'file:///tmp/exthost-8644d2.cpuprofile'
+2025-06-28 18:10:32.590 [error] [Extension Host] (node:1930) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-28 18:10:35.860 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-06-28 18:10:35.861 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-06-28 18:10:35.977 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-06-28 18:10:35.977 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-06-28 18:15:20.114 [error] Error while handling chat request: Canceled: Canceled: Canceled
+    at gC (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3348:37210
+    at Array.forEach (<anonymous>)
+    at rkt.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3348:37150)
+    at mTe.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3348:48827)
+    at Dnn.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3355:7461)
+    at Enn.stopAllInReverse (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3355:6763)
+    at async zyt.tb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3354:16229)
+2025-06-28 18:15:20.120 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/uhcfn/VScode/products.html 
+2025-06-28 18:15:20.124 [warning] [backup tracker] suspended, ignoring content change event file:///home/uhcfn/VScode/products.html 
+2025-06-28 18:15:20.129 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/uhcfn/VScode/trainings.html 
+2025-06-28 18:15:20.133 [warning] [backup tracker] suspended, ignoring content change event file:///home/uhcfn/VScode/trainings.html 
+2025-06-28 18:15:20.137 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/uhcfn/VScode/partners.html 
+2025-06-28 18:15:20.141 [warning] [backup tracker] suspended, ignoring content change event file:///home/uhcfn/VScode/partners.html 
+2025-06-28 18:15:20.144 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/uhcfn/VScode/contacts.html 
+2025-06-28 18:15:20.149 [warning] [backup tracker] suspended, ignoring content change event file:///home/uhcfn/VScode/contacts.html 
+2025-06-28 18:15:20.239 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/uhcfn/VScode/work.html 
+2025-06-28 18:15:20.245 [warning] [backup tracker] suspended, ignoring content change event file:///home/uhcfn/VScode/work.html 
+2025-06-28 18:15:20.306 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/uhcfn/VScode/index.html 
+2025-06-28 18:15:20.311 [warning] [backup tracker] suspended, ignoring content change event file:///home/uhcfn/VScode/index.html 
+2025-06-28 18:15:20.805 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.chatEditingSession, join.chatSessionStore, join.workingCopyHistory

@@ -1,0 +1,25 @@
+2025-06-28 17:41:05.631 [info] Using the Electron fetcher.
+2025-06-28 17:41:05.631 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-06-28 17:41:05.631 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-06-28 17:41:05.631 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-06-28 17:41:05.631 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-06-28 17:41:06.650 [error] Error fetching available embedding types: Error: net::ERR_NAME_NOT_RESOLVED
+2025-06-28 17:41:07.344 [info] Logged in as uhcfn
+2025-06-28 17:41:07.350 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10635)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28): Failed to get copilot token
+2025-06-28 17:41:07.351 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_NAME_NOT_RESOLVED"
+2025-06-28 17:41:07.351 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-06-28 17:41:07.351 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10635)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-06-28 17:41:07.351 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-06-28 17:41:07.351 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10635)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-06-28 17:41:07.352 [info] activationBlocker from 'languageModelAccess' took for 3192ms
+2025-06-28 17:41:07.353 [error] Error fetching available embedding types: Error: net::ERR_NAME_NOT_RESOLVED
+2025-06-28 17:42:07.373 [info] Logged in as uhcfn
+2025-06-28 17:42:07.379 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_NAME_NOT_RESOLVED"
+2025-06-28 17:43:07.410 [info] Logged in as uhcfn
+2025-06-28 17:43:07.419 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_NAME_NOT_RESOLVED"

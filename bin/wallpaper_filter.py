@@ -4,7 +4,7 @@ from PIL import Image
 
 
 wallpaper_path = None
-monitor_size = "1920x1080"
+monitor_size = "1366x768"
 
 black_list = [
     "gif", "swf", "bmp", "htt", "tif", "x",

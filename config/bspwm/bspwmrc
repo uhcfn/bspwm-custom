@@ -8,7 +8,7 @@ pgrep -x sxhkd > /dev/null || sxhkd &
 
 # workspaces
 bspc monitor primary -d 1 2 3 4 5 6 7
-bspc monitor LVDS-1 -d 7  # TODO: multiple monitors
+#bspc monitor LVDS-1 -d 7  # TODO: multiple monitors
 
 bspc config focus_follows_pointer true
 
@@ -26,7 +26,7 @@ xsetroot -cursor_name left_ptr
 
 # gaps
 bspc config gapless_monocle false
-bspc config window_gap 17
+bspc config window_gap 6
 
 # moving floating windows and resize them with mouse, hold alt key
 bspc config pointer_modifier mod4

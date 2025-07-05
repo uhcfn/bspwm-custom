@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>План "Разгром"</title>
+		<link rel="stylesheet" href="plan.css" />
+	</head>
+	<body>
+		<div class="terminal-frame">
+			<div id="terminal"></div>
+			<form id="terminalForm" autocomplete="off" style="margin:0;">
+				<input id="terminalInput" type="text" autofocus autocomplete="off" spellcheck="false" class="terminal-input" placeholder="Введите команду..." />
+			</form>
+		</div>
+		<script src="plan.js"></script>
+	</body>
+</html>

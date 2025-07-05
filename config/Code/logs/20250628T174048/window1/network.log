@@ -1,0 +1,20 @@
+2025-06-28 17:40:55.744 [error] #1: https://api.github.com/copilot_internal/user - error GET Failed to fetch
+2025-06-28 17:40:56.324 [error] #2: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/cardinal90/multi-cursor-case-preserve/latest - error GET Failed to fetch
+2025-06-28 17:40:56.332 [error] #3: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/esbenp/prettier-vscode/latest - error GET Failed to fetch
+2025-06-28 17:40:56.356 [error] #4: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot/latest - error GET Failed to fetch
+2025-06-28 17:40:56.365 [error] #5: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot-chat/latest - error GET Failed to fetch
+2025-06-28 17:40:56.370 [error] #6: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-ceintl/vscode-language-pack-ru/latest - error GET Failed to fetch
+2025-06-28 17:40:56.376 [error] #7: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ritwickdey/liveserver/latest - error GET Failed to fetch
+2025-06-28 17:40:56.378 [error] #8: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xabikos/javascriptsnippets/latest - error GET Failed to fetch
+2025-06-28 17:40:56.393 [error] #9: https://www.vscode-unpkg.net/_gallery/cardinal90/multi-cursor-case-preserve/latest - error GET Failed to fetch
+2025-06-28 17:40:56.403 [error] #10: https://www.vscode-unpkg.net/_gallery/esbenp/prettier-vscode/latest - error GET Failed to fetch
+2025-06-28 17:40:56.409 [error] #11: https://www.vscode-unpkg.net/_gallery/github/copilot/latest - error GET Failed to fetch
+2025-06-28 17:40:56.486 [error] #12: https://www.vscode-unpkg.net/_gallery/github/copilot-chat/latest - error GET Failed to fetch
+2025-06-28 17:40:56.490 [error] #14: https://www.vscode-unpkg.net/_gallery/ritwickdey/liveserver/latest - error GET Failed to fetch
+2025-06-28 17:40:56.494 [error] #13: https://www.vscode-unpkg.net/_gallery/ms-ceintl/vscode-language-pack-ru/latest - error GET Failed to fetch
+2025-06-28 17:40:56.498 [error] #15: https://www.vscode-unpkg.net/_gallery/xabikos/javascriptsnippets/latest - error GET Failed to fetch
+2025-06-28 17:40:56.569 [error] #16: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch
+2025-06-28 17:40:58.635 [error] #17: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-06-28 17:41:03.124 [error] #18: https://api.github.com/copilot_internal/user - error GET Offline
+2025-06-28 17:41:03.130 [error] #19: https://api.github.com/copilot_internal/v2/token - error GET Offline
+2025-06-28 17:41:05.494 [error] #20: https://api.github.com/copilot_internal/user - error GET Failed to fetch

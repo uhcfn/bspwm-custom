@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Ссылки | Kendo Kyrgyzstan</title>
+		<link rel="stylesheet" href="style.css" />
+		<style>
+			/* Стили скопированы из about.html */
+		</style>
+	</head>
+	<body>
+		<div class="navbar">
+			<img src="img/logo.png" alt="Логотип" class="logo" />
+			<nav>
+				<ul>
+					<li><a href="index.html">Главная</a></li>
+					<li><a href="about.html">О Нас</a></li>
+					<li><a href="iaido.html">Иайдо</a></li>
+					<li><a href="news.html">Новости</a></li>
+					<li><a href="trainings.html">Тренировки</a></li>
+					<li><a href="photo.html">Фото</a></li>
+					<li><a href="contact.html">Контакт</a></li>
+					<li><a href="links.html" class="active">Ссылки</a></li>
+				</ul>
+			</nav>
+		</div>
+		<main>
+			<div
+				class="card"
+				style="
+					display: flex;
+					gap: 36px;
+					align-items: flex-start;
+					flex-wrap: wrap;
+				"
+			>
+				<div style="flex: 1; min-width: 260px">
+					<h2>Полезные ссылки</h2>
+					<ul style="margin-top: 18px; color: #3e4e4b">
+						<li>
+							<a
+								href="https://www.kendo-fik.org/"
+								target="_blank"
+								style="color: #6e8b87; font-weight: 600"
+							>
+								Международная федерация Кендо (FIK)
+							</a>
+						</li>
+						<li>
+							<a
+								href="https://www.ekf-eu.com/"
+								target="_blank"
+								style="color: #d34c4c; font-weight: 600"
+							>
+								Европейская федерация Кендо (EKF)
+							</a>
+						</li>
+						<li>
+							<a
+								href="https://ru.wikipedia.org/wiki/Кэндо"
+								target="_blank"
+								style="color: #3e4e4b; font-weight: 600"
+							>
+								Статья о Кэндо на Wikipedia
+							</a>
+						</li>
+					</ul>
+					<p style="margin-top: 24px; color: #6e8b87; font-weight: 600">
+						Изучайте больше о кэндо и присоединяйтесь к нашему сообществу!
+					</p>
+				</div>
+				<img
+					src="https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+					alt="links"
+					style="
+						border-radius: 14px;
+						max-width: 320px;
+						width: 100%;
+						box-shadow: 0 2px 12px rgba(110, 139, 135, 0.13);
+					"
+				/>
+			</div>
+		</main>
+		<footer>© 2025 Кыргызская Федерация Кендо</footer>
+	</body>
+</html>

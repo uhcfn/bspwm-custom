@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+
+STEP=200
+MIN=3000
+MAX=6500
+STATE_FILE="/tmp/redshift_temp_state"
+
+if [ ! -f "$STATE_FILE" ]; then
+    echo "$MAX" > "$STATE_FILE"
+fi
+
+TEMP=$(cat "$STATE_FILE")
+
+set_temp() {
+    echo "$1" > "$STATE_FILE"
+    redshift -P -O "$1"
+    echo "$1"
+}
+
+case "$1" in
+    --up)
+        NEW_TEMP=$((TEMP + STEP))
+        [ "$NEW_TEMP" -gt "$MAX" ] && NEW_TEMP=$MAX
+        set_temp "$NEW_TEMP"
+        ;;
+    --down)
+        NEW_TEMP=$((TEMP - STEP))
+        [ "$NEW_TEMP" -lt "$MIN" ] && NEW_TEMP=$MIN
+        set_temp "$NEW_TEMP"
+        ;;
+    --get)
+        printf "%.1f\n" "$(bc -l <<< "$TEMP/1000")"
+        ;;
+    *)
+        echo "Usage: $0 --up|--down|--get"
+        exit 1
+        ;;
+esac

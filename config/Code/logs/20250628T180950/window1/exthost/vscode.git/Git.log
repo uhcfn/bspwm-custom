@@ -1,0 +1,56 @@
+2025-06-28 18:10:00.817 [info] [основное] Уровень ведения журнала: Info
+2025-06-28 18:10:00.817 [info] [основное] Проверка найденного Git в: "git"
+2025-06-28 18:10:00.817 [info] [основное] Используется Git "2.50.0" из "git"
+2025-06-28 18:10:00.817 [info] [Model][doInitialScan] Initial repository scan started
+2025-06-28 18:10:00.817 [info] > git rev-parse --show-toplevel [32ms]
+2025-06-28 18:10:00.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:00.817 [info] > git rev-parse --show-toplevel [23ms]
+2025-06-28 18:10:00.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:00.817 [info] > git rev-parse --show-toplevel [6ms]
+2025-06-28 18:10:00.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:00.817 [info] > git rev-parse --show-toplevel [9ms]
+2025-06-28 18:10:00.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:00.817 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-06-28 18:10:07.450 [info] > git rev-parse --show-toplevel [463ms]
+2025-06-28 18:10:07.450 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:07.828 [info] > git rev-parse --show-toplevel [321ms]
+2025-06-28 18:10:07.828 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:08.467 [info] > git rev-parse --show-toplevel [135ms]
+2025-06-28 18:10:08.467 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:08.567 [info] > git rev-parse --show-toplevel [69ms]
+2025-06-28 18:10:08.567 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:08.642 [info] > git rev-parse --show-toplevel [15ms]
+2025-06-28 18:10:08.642 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:09.453 [info] > git rev-parse --show-toplevel [47ms]
+2025-06-28 18:10:09.453 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:09.542 [info] > git rev-parse --show-toplevel [30ms]
+2025-06-28 18:10:09.542 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:09.605 [info] > git rev-parse --show-toplevel [24ms]
+2025-06-28 18:10:09.605 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:09.783 [info] > git rev-parse --show-toplevel [16ms]
+2025-06-28 18:10:09.783 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:09.816 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-28 18:10:09.816 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:10.116 [info] > git rev-parse --show-toplevel [275ms]
+2025-06-28 18:10:10.116 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:10.173 [info] > git rev-parse --show-toplevel [29ms]
+2025-06-28 18:10:10.173 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:10.203 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-28 18:10:10.203 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:10.259 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-28 18:10:10.259 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:10.314 [info] > git rev-parse --show-toplevel [29ms]
+2025-06-28 18:10:10.314 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:10.345 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-28 18:10:10.345 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:26.637 [info] [основное] Уровень ведения журнала: Info
+2025-06-28 18:10:26.637 [info] [основное] Проверка найденного Git в: "git"
+2025-06-28 18:10:26.637 [info] [основное] Используется Git "2.50.0" из "git"
+2025-06-28 18:10:26.637 [info] [Model][doInitialScan] Initial repository scan started
+2025-06-28 18:10:26.637 [info] > git rev-parse --show-toplevel [98ms]
+2025-06-28 18:10:26.637 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:10:26.637 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-06-28 18:10:38.541 [info] > git rev-parse --show-toplevel [22ms]
+2025-06-28 18:10:38.541 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-06-28 18:11:17.814 [info] > git rev-parse --show-toplevel [15ms]
+2025-06-28 18:11:17.814 [info] fatal: not a git repository (or any of the parent directories): .git

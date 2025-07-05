@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Новости | Kendo Kyrgyzstan</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul style="display: flex; gap: 16px; list-style: none; padding: 0; margin: 0; align-items: center;">
+        <li><a href="index.html">Главная</a></li>
+        <li><a href="about.html">О Нас</a></li>
+        <li><a href="iaido.html">Иайдо</a></li>
+        <li><a href="news.html">Новости</a></li>
+        <li><a href="trainings.html">Тренировки</a></li>
+        <li><a href="photo.html">Фото</a></li>
+        <li><a href="contact.html">Контакт</a></li>
+        <li><a href="links.html">Ссылки</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main style="max-width: 800px; margin: 32px auto;">
+    <img src="https://kendo-kg.github.io/img/big/news3.jpg" alt="News3" style="max-width: 100%; border-radius: 10px; margin-bottom: 24px;" />
+    <h1>Новости</h1>
+    <ul style="margin-top: 18px; color: #3e4e4b; font-size: 1.1em;">
+      <li><b>20.09.2024:</b> В Бишкеке состоялся открытый турнир по кэндо “Кубок Манаса”. Генеральный спонсор компания Paysend.</li>
+      <li><b>20.09.2023:</b> Тренировки теперь проходят в зале Дома Культуры по адресу Чуйкова 138.</li>
+      <li><b>25.04.2023:</b> Сборная Кыргызстана возобновила тренировки и проводит набор новых спортсменов.</li>
+    </ul>
+  </main>
+  <footer style="text-align: center; margin-top: 48px;">© 2025 Кыргызская Федерация Кендо</footer>
+</body>
+</html>

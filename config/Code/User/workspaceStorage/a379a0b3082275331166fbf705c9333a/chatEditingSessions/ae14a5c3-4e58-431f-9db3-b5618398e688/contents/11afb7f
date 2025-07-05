@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>О Нас | Kendo Kyrgyzstan</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul style="display: flex; gap: 16px; list-style: none; padding: 0; margin: 0; align-items: center;">
+        <li><a href="index.html">Главная</a></li>
+        <li><a href="about.html">О Нас</a></li>
+        <li><a href="iaido.html">Иайдо</a></li>
+        <li><a href="news.html">Новости</a></li>
+        <li><a href="trainings.html">Тренировки</a></li>
+        <li><a href="photo.html">Фото</a></li>
+        <li><a href="contact.html">Контакт</a></li>
+        <li><a href="links.html">Ссылки</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main style="max-width: 800px; margin: 32px auto;">
+    <img src="https://kendo-kg.github.io/img/big/aboutUs1.jpg" alt="Kendo" style="max-width: 100%; border-radius: 10px; margin-bottom: 24px;" />
+    <h1>Кэндо (剣道)</h1>
+    <p>Кэндо — современное японское боевое искусство фехтования на бамбуковых мечах. Кэндо — интересный и динамичный вид спорта, подходящий для всех возрастов.</p>
+    <img src="https://kendo-kg.github.io/img/big/aboutUs2.jpg" alt="Kenjiutsu" style="max-width: 100%; border-radius: 10px; margin: 24px 0;" />
+    <p>Кэндо ведёт свою историю от традиционных самурайских техник владения мечом, кэндзюцу (剣術). Ставит целью формирование полноценной личности и твёрдого характера, закаляя волю и тело фехтовальщика.</p>
+    <img src="https://kendo-kg.github.io/img/big/aboutUs3.jpg" alt="Flag" style="max-width: 100%; border-radius: 10px; margin: 24px 0;" />
+    <p>Федерация Кэндо Кыргызстана существует с 2000 года.</p>
+  </main>
+  <footer style="text-align: center; margin-top: 48px;">© 2025 Кыргызская Федерация Кендо</footer>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Семинары и тренинги - Профессиональный лицей №3</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<header>
+			<div class="logo">
+				<img src="logo.png" alt="Логотип ПЛ №3" />
+				<h1>Профессиональный лицей №3</h1>
+			</div>
+			<nav>
+				<ul>
+					<li><a href="index.html">Главная</a></li>
+					<li><a href="news.html">Новости</a></li>
+					<li><a href="products.html">Продукция</a></li>
+					<li><a href="work.html">Как мы работаем</a></li>
+					<li><a href="trainings.html">Семинары</a></li>
+					<li><a href="partners.html">Партнёры</a></li>
+					<li><a href="contacts.html">Контакты</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main>
+			<section id="trainings">
+				<h2>Семинары и тренинги</h2>
+				<p>
+					Мы регулярно проводим обучающие мероприятия, направленные на повышение
+					квалификации и профессионального уровня. Ниже вы можете
+					зарегистрироваться на предстоящие семинары.
+				</p>
+
+				<form id="register-form">
+					<input type="text" placeholder="ФИО" required />
+					<input type="email" placeholder="Email" required />
+					<input type="tel" placeholder="Телефон" required />
+					<select required>
+						<option value="">Выберите семинар</option>
+						<option value="prof_orientation">Профориентация</option>
+						<option value="safety">Техника безопасности</option>
+						<option value="skills">Навыки общения</option>
+					</select>
+					<button type="submit">Зарегистрироваться</button>
+				</form>
+			</section>
+		</main>
+
+		<footer>
+			<p>&copy; 2025 Профессиональный лицей №3. Все права защищены.</p>
+		</footer>
+
+		<script src="script.js"></script>
+	</body>
+</html>

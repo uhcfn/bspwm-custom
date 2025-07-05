@@ -1,0 +1,92 @@
+body {
+	background: black;
+	color: white;
+	font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', 'Liberation Mono',
+		monospace;
+	margin: 0;
+	padding: 20px;
+}
+
+.terminal-frame {
+	background: black;
+	color: white;
+	font-size: 1.125em;
+	white-space: pre-wrap;
+	line-height: 1.6;
+	max-width: 600px;
+	margin: 40px auto;
+	border-radius: 0;
+	box-shadow: none;
+	padding: 0;
+	border: none;
+}
+
+#terminal {
+	min-height: 240px;
+	margin-bottom: 0;
+	padding: 0 2px;
+}
+
+.terminal-input-row {
+	display: flex;
+	align-items: center;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: normal;
+}
+
+.terminal-prompt {
+	color: white;
+	margin-right: 2px;
+	user-select: none;
+	font-weight: normal;
+	font-size: inherit;
+	font-family: inherit;
+	line-height: inherit;
+}
+
+.terminal-input {
+	flex: 1;
+	background: black;
+	color: white;
+	border: none;
+	outline: none;
+	font-family: inherit;
+	font-size: inherit;
+	padding: 6px 0 6px 0;
+	box-sizing: border-box;
+	caret-color: white;
+}
+
+.terminal-input::placeholder {
+	color: black;
+}
+
+.terminal-cursor {
+	display: inline-block;
+	width: 2px;
+	height: 1em;
+	background: white;
+	vertical-align: baseline;
+	margin: 0;
+	border: none !important;
+	box-shadow: none !important;
+	outline: none !important;
+	padding: 0;
+}
+
+pre {
+	margin: 0;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: normal;
+	line-height: inherit;
+}
+
+.terminal-decor {
+	font-family: inherit;
+	font-size: inherit;
+	margin-bottom: 8px;
+	margin-top: 8px;
+	user-select: none;
+}

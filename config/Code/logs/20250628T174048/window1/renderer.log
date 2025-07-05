@@ -1,0 +1,33 @@
+2025-06-28 17:40:49.987 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 17:40:50.014 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 17:40:50.014 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 17:40:51.597 [info] Started local extension host with pid 835.
+2025-06-28 17:40:51.775 [info] ComputeTargetPlatform: linux-x64
+2025-06-28 17:40:55.745 [error] [chat entitlement] request: error TypeError: Failed to fetch
+2025-06-28 17:40:56.326 [error] Error while getting the latest version for the extension cardinal90.multi-cursor-case-preserve from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-06-28 17:40:56.333 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-06-28 17:40:56.362 [error] Error while getting the latest version for the extension github.copilot from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-06-28 17:40:56.366 [error] Error while getting the latest version for the extension github.copilot-chat from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-06-28 17:40:56.372 [error] Error while getting the latest version for the extension ms-ceintl.vscode-language-pack-ru from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-06-28 17:40:56.376 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-06-28 17:40:56.384 [error] Error while getting the latest version for the extension xabikos.javascriptsnippets from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-06-28 17:40:56.398 [error] Error while getting the latest version for the extension cardinal90.multi-cursor-case-preserve. Failed to fetch
+2025-06-28 17:40:56.407 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Failed to fetch
+2025-06-28 17:40:56.413 [error] Error while getting the latest version for the extension github.copilot. Failed to fetch
+2025-06-28 17:40:56.486 [error] Error while getting the latest version for the extension github.copilot-chat. Failed to fetch
+2025-06-28 17:40:56.490 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Failed to fetch
+2025-06-28 17:40:56.494 [error] Error while getting the latest version for the extension ms-ceintl.vscode-language-pack-ru. Failed to fetch
+2025-06-28 17:40:56.498 [error] Error while getting the latest version for the extension xabikos.javascriptsnippets. Failed to fetch
+2025-06-28 17:40:57.683 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-28 17:40:58.636 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-06-28 17:40:58.854 [info] [perf] Render performance baseline is 92ms
+2025-06-28 17:41:01.110 [info] Extension host (LocalProcess pid: 835) is unresponsive.
+2025-06-28 17:41:02.458 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-28 17:41:02.771 [info] Extension host (LocalProcess pid: 835) is responsive.
+2025-06-28 17:41:02.772 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-28 17:41:03.124 [error] Failed to fetch entitlements Offline
+2025-06-28 17:41:03.131 [error] Failed to fetch token entitlements Offline
+2025-06-28 17:41:03.185 [warning] UNRESPONSIVE extension host: 'github.copilot' took 57.132649526119124% of 184.703ms, saved PROFILE here: 'file:///tmp/exthost-7e24c1.cpuprofile'
+2025-06-28 17:41:04.101 [error] [Extension Host] (node:835) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-28 17:41:05.495 [error] [chat entitlement] request: error TypeError: Failed to fetch

@@ -1,0 +1,6 @@
+2025/07/02-22:47:03.104 3d8b Creating DB /home/uhcfn/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2025/07/02-22:47:03.109 3d8b Reusing MANIFEST /home/uhcfn/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/02-22:47:05.275 3d8a Level-0 table #5: started
+2025/07/02-22:47:05.276 3d8a Level-0 table #5: 868 bytes OK
+2025/07/02-22:47:05.278 3d8a Delete type=0 #3
+2025/07/02-22:47:05.278 3d8a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

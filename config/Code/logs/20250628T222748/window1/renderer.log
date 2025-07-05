@@ -1,0 +1,27 @@
+2025-06-28 22:27:49.854 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 22:27:49.881 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 22:27:49.882 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 22:27:51.623 [info] Started local extension host with pid 22579.
+2025-06-28 22:27:52.130 [info] ComputeTargetPlatform: linux-x64
+2025-06-28 22:27:57.419 [error] [Extension Host] (node:22579) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-28 22:27:58.780 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-28 22:28:00.288 [info] [perf] Render performance baseline is 118ms
+2025-06-28 22:28:04.203 [info] Extension host (LocalProcess pid: 22579) is unresponsive.
+2025-06-28 22:28:05.674 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-28 22:28:06.600 [info] Extension host (LocalProcess pid: 22579) is responsive.
+2025-06-28 22:28:06.602 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-28 22:28:06.981 [warning] UNRESPONSIVE extension host: 'github.copilot' took 75.90877230480059% of 724.509ms, saved PROFILE here: 'file:///tmp/exthost-9985d3.cpuprofile'
+2025-06-28 22:30:44.960 [info] Started local extension host with pid 24416.
+2025-06-28 22:30:47.697 [error] No registered selector for ID: ms-vscode.npm-command
+2025-06-28 22:30:51.797 [info] Extension host (LocalProcess pid: 24416) is unresponsive.
+2025-06-28 22:30:53.047 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-28 22:30:53.913 [info] Extension host (LocalProcess pid: 24416) is responsive.
+2025-06-28 22:30:53.916 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-28 22:30:54.276 [warning] UNRESPONSIVE extension host: 'github.copilot' took 79.42646776375862% of 740.238ms, saved PROFILE here: 'file:///tmp/exthost-8d4366.cpuprofile'
+2025-06-28 22:30:55.006 [error] [Extension Host] (node:24416) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-28 22:30:58.596 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-06-28 22:30:58.597 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-06-28 22:30:58.628 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-06-28 22:30:58.628 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

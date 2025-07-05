@@ -1,0 +1,76 @@
+body {
+	background: black;
+	color: white;
+	font-family: 'Courier Prime', 'Courier New', Courier, monospace;
+	margin: 0;
+	padding: 20px;
+	caret-color: white;
+}
+
+.terminal-frame {
+	background: black;
+	color: white;
+	font-size: 1.1em;
+	white-space: pre-wrap;
+	line-height: 1.7;
+	max-width: 720px;
+	margin: 40px auto;
+	padding: 0;
+	border: none;
+}
+
+#terminal {
+	min-height: 240px;
+	padding: 0 2px;
+}
+
+.terminal-input-row {
+	display: flex;
+	align-items: center;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: normal;
+}
+
+.terminal-prompt {
+	color: white;
+	user-select: none;
+	font-weight: normal;
+	font-size: inherit;
+	font-family: inherit;
+	line-height: inherit;
+}
+
+#terminalInput {
+	flex: 1;
+	background: black;
+	color: white;
+	border: none;
+	outline: none;
+	font-family: inherit;
+	font-size: inherit;
+	padding: 4px;
+	box-sizing: border-box;
+	caret-color: white;
+	width: 100%;
+}
+
+pre {
+	margin: 0;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: normal;
+	line-height: inherit;
+}
+
+.terminal-decor {
+	font-family: inherit;
+	font-size: inherit;
+	margin-bottom: 8px;
+	margin-top: 8px;
+	user-select: none;
+}
+
+#input-container {
+	margin-top: 8px;
+}

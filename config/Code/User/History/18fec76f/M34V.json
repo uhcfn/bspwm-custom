@@ -1,0 +1,221 @@
+{
+	// Основные настройки редактора
+	"window.openFilesInNewWindow": "off", // Отключить открытие файлов в новых окнах
+	"editor.tabSize": 2, // Установить отступ в 2 пробела
+	"[html]": {
+		"editor.tabSize": 4 // Установить отступ в 4 пробела для HTML
+	},
+	"editor.folding": false, // Отключить сворачивание кода
+	"editor.insertSpaces": false, // Использовать табуляцию вместо пробелов для отступов
+	"editor.smoothScrolling": true, // Включить плавную прокрутку
+	"editor.minimap.enabled": false, // Скрыть миникарту справа от редактора
+	"editor.detectIndentation": true, // Автоматически определять отступы из файла
+	"editor.suggestSelection": "first", // Выбирать первую подсказку по умолчанию
+	"editor.multiCursorModifier": "ctrlCmd", // Использовать клавишу Ctrl/Cmd для многокурсорного редактирования
+	"window.zoomLevel": 0.1, // Установить начальный уровень масштаба
+
+	// Настройки переноса текста
+	"editor.wordWrap": "bounded", // Переносить текст в пределах определенной колонки
+	"editor.wrappingIndent": "same", // Сохранять тот же отступ при переносе
+	"editor.wordWrapColumn": 80, // Установить ширину колонки для переноса слов
+
+	// Определяет, может ли редактор прокручиваться за пределы последней строки
+	"editor.scrollBeyondLastLine": true, // Разрешить прокрутку за последнюю строку
+
+	// Настройки редактирования тегов
+	"editor.linkedEditing": true, // Включить синхронное редактирование парных тегов
+
+	// Автоматическое закрытие тегов
+	"html.autoClosingTags": true, // Автозакрытие HTML-тегов
+	"javascript.autoClosingTags": true, // Автозакрытие тегов в JavaScript
+	"typescript.autoClosingTags": true, // Автозакрытие тегов в TypeScript
+
+	// Определяет, должен ли редактор отображать управляющие символы
+	"editor.renderControlCharacters": false, // Не показывать управляющие символы
+
+	// Управление выделением неоднозначных символов
+	"editor.unicodeHighlight.ambiguousCharacters": false, // Не подсвечивать неоднозначные символы
+
+	"editor.quickSuggestionsDelay": 0, // Мгновенное отображение подсказок
+	// "html.completion.attributeDefaultValue": "singlequotes", // Использовать одинарные кавычки по умолчанию
+
+	// Внешний вид
+	// "editor.bracketPairColorization.enabled": false, // Отключить цветовую раскраску скобок
+	"editor.glyphMargin": false, // Скрыть поле глифов
+	"editor.scrollbar.horizontal": "hidden", // Скрыть горизонтальную полосу прокрутки
+	// "editor.scrollbar.vertical": "hidden", // Скрыть вертикальную полосу прокрутки
+	"workbench.productIconTheme": "fluent-icons", // Выбрать цветовую тему
+	"editor.accessibilitySupport": "off", // Отключить поддержку специальных возможностей
+	"window.commandCenter": false, // Отключить элементы управления макетом
+	"symbols.hidesExplorerArrows": false, // Показывать стрелки в обозревателе символов
+	"workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons", // Тема иконок
+
+	// Курсор
+	"editor.cursorBlinking": "expand", // Анимация мигания курсора
+	"editor.cursorStyle": "line-thin", // Тонкий линейный курсор
+	"editor.cursorSmoothCaretAnimation": "explicit", // Плавная анимация курсора
+
+	// Шрифт
+	"editor.fontSize": 18, // Размер шрифта
+	"editor.lineHeight": 28, // Высота строки
+	"editor.fontLigatures": true, // Включить лигатуры шрифта
+	"editor.fontFamily": "Operator mono lig, Iosevka NFM, JetBrains Mono, Monaspace Neon, Maple Mono, MonoLisa, Ubuntu Mono, DejaVu Sans Mono, Fira Code, monoki, Hasklig, PragmataPro, IBM Plex Mono, Victor Mono, Roboto Mono, monospace", // Список шрифтов
+	"editor.inlayHints.fontFamily": "PragmataPro", // Шрифт для встроенных подсказок
+
+	// Настройки цвета токенов
+	"editor.tokenColorCustomizations": {
+		"textMateRules": [
+			{
+				"scope": [
+					"comment",
+					"entity.name.type.class",
+					"keyword",
+					"constant",
+					"storage.modifier",
+					"storage.type.class.js"
+				],
+				"settings": {
+					"fontStyle": "italic"
+				}
+			},
+			{
+				"scope": [
+					// Исключить из курсива
+					"invalid", // Недопустимые токены
+					"keyword.operator", // Операторы
+					"constant.numeric.css", // Числовые константы в CSS
+					"keyword.other.unit.px.css", // Единицы измерения в CSS
+					"constant.numeric.decimal.js", // Десятичные числа JavaScript
+					"constant.numeric.json" // Числа в JSON
+				],
+				"settings": {
+					"fontStyle": "" // Убрать курсивное начертание
+				}
+			}
+		]
+	},
+
+	// Терминал
+	"terminal.integrated.fontFamily": "Iosevka NFM", // Шрифт интегрированного терминала
+	"terminal.integrated.fontSize": 15, // Размер шрифта терминала
+	"terminal.integrated.tabs.enabled": false, // Отключить вкладки в терминале
+
+	// Обозреватель файлов
+	// "explorer.confirmDelete": false, // Не запрашивать подтверждение при удалении
+	"explorer.compactFolders": false, // Не объединять папки
+	// "explorer.confirmDragAndDrop": false, // Не запрашивать подтверждение при перемещении файлов
+	"workbench.editor.tabSizing": "shrink", // Уменьшать размер вкладок при нехватке места
+	// "workbench.startupEditor": "newUntitledFile", // Открывать новый пустой файл при запуске
+
+	// Отладка
+	// "debug.toolBarLocation": "hidden", // Скрыть панель инструментов отладки
+	// "debug.focusWindowOnBreak": false, // Не переключаться на окно при остановке
+	// "debug.showInlineBreakpointCandidates": false, // Не показывать inline точки останова
+	// "debug.showBreakpointsInOverviewRuler": false, // Не показывать точки останова в ruler'е
+
+	// Emmet
+	"emmet.includeLanguages": {
+		"blade": "html", // Использовать HTML раскладку для Blade
+		"javascript": "javascriptreact" // Использовать React для JavaScript
+	},
+	"emmet.triggerExpansionOnTab": true, // Включить расширение Emmet по Tab
+
+	// Форматирование
+	// "prettier.semi": false, // Не добавлять точки с запятой
+	"prettier.useTabs": true, // Использовать табуляцию
+	"editor.formatOnSave": true, // Форматировать при сохранении
+	"prettier.singleQuote": true, // Использовать одинарные кавычки
+	"prettier.jsxSingleQuote": true, // Одинарные кавычки в JSX
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "explicit" // Организовывать импорты при сохранении
+	},
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma" // Форматтер для Prisma
+	},
+	"prettier.arrowParens": "avoid", // Не добавлять скобки для единственного параметра стрелочной функции
+	"editor.defaultFormatter": "esbenp.prettier-vscode", // Основной форматтер
+	"editor.inlineSuggest.enabled": true, // Включить встроенные подсказки
+
+	// Laravel
+	"[blade]": {
+		"editor.defaultFormatter": "onecentlin.laravel-blade" // Форматтер для Blade
+	},
+	"[php]": {
+		"editor.defaultFormatter": "DEVSENSE.phptools-vscode" // Форматтер для PHP
+	},
+
+	// Хлебные крошки (breadcrumbs)
+	"breadcrumbs.icons": false, // Убрать иконки
+	"breadcrumbs.showKeys": false, // Не показывать ключи
+	"breadcrumbs.showFiles": false, // Не показывать файлы
+	"breadcrumbs.symbolPath": "off", // Отключить путь символов
+	"breadcrumbs.showArrays": false, // Не показывать массивы
+	"breadcrumbs.showEvents": false, // Не показывать события
+	"breadcrumbs.showFields": false, // Не показывать поля
+	// "breadcrumbs.showClasses": false, // Не показывать классы
+	"breadcrumbs.showMethods": false, // Не показывать методы
+	"breadcrumbs.showBooleans": false, // Не показывать булевы значения
+	"breadcrumbs.showFunctions": false, // Не показывать функции
+	"breadcrumbs.showConstants": false, // Не показывать константы
+	"breadcrumbs.showEnumMembers": false, // Не показывать членов перечислений
+	"breadcrumbs.showConstructors": false, // Не показывать конструкторы
+
+	// Настройки JavaScript и TypeScript
+	"javascript.updateImportsOnFileMove.enabled": "always", // Автоматически обновлять импорты при перемещении файлов
+	"typescript.updateImportsOnFileMove.enabled": "always", // То же для TypeScript
+	"typescript.preferences.quoteStyle": "single", // Использовать одинарные кавычки в TypeScript
+	"javascript.preferences.quoteStyle": "single", // Использовать одинарные кавычки в JavaScript
+	"javascript.format.semicolons": "remove", // Удалять точки с запятой в JavaScript
+	"typescript.format.semicolons": "remove", // Удалять точки с запятой в TypeScript
+	"js/ts.implicitProjectConfig.experimentalDecorators": true, // Включить экспериментальную поддержку декораторов
+
+	// Spell checker (проверка орфографии)
+	"cSpell.language": "en,ru", // Языки проверки орфографии
+	"cSpell.userWords": [], // Пользовательский словарь
+	"cSpell.enabled": true, // Включить проверку орфографии
+	"cSpell.enableFiletypes": [
+		"blade",
+		"jsx",
+		"tsx",
+		"ts",
+		"js",
+		"scss",
+		"sass",
+		"vue"
+	], // Типы файлов для проверки орфографии
+
+	// Разрешенные символы для подсветки Юникода
+	"editor.unicodeHighlight.allowedCharacters": {
+		"а": true, // Разрешить кириллическую 'а'
+		"с": true, // Разрешить кириллическую 'с'
+		"Т": true, // Разрешить кириллическую 'Т'
+		"б": true, // Разрешить кириллическую 'б'
+		"е": true // Разрешить кириллическую 'е'
+	},
+	"editor.hideCursorInOverviewRuler": true, // Скрыть курсор в обзорной линейке
+	"git.enableSmartCommit": true, // Включить "умные" коммиты в Git
+
+	// Исключения из файлового обозревателя
+	"files.exclude": {
+		"**/.expo": true, // Скрыть папки .expo
+		"**/.expo-shared": true, // Скрыть общие папки expo
+		"**/.idea": true, // Скрыть папки IDE
+		"**/.next": true, // Скрыть папки Next.js
+		"**/.nuxt": true, // Скрыть папки Nuxt
+		"**/dist": true // Скрыть дистрибутивные папки
+	},
+
+	// Прочие настройки
+	"files.defaultLanguage": "plaintext", // Язык по умолчанию для новых файлов - обычный текст
+	"diffEditor.ignoreTrimWhitespace": false, // Учитывать пробелы при сравнении в редакторе diff
+	"security.workspace.trust.untrustedFiles": "open", // Открывать недоверенные файлы без предупреждения
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue", // Автоматически изменять предложения автозаполнения
+	"window.confirmBeforeClose": "keyboardOnly", // Подтверждение закрытия окна только при использовании клавиатуры
+	"git.openRepositoryInParentFolders": "never", // Не открывать репозиторий в родительских папках
+
+	// Поведение при навигации по коду
+	"editor.gotoLocation.multipleDefinitions": "goto", // При множественных определениях переходить к первому
+	"workbench.editor.empty.hint": "hidden",
+	"workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+	"workbench.layoutControl.enabled": false // Скрыть подсказку в пустом редакторе
+}

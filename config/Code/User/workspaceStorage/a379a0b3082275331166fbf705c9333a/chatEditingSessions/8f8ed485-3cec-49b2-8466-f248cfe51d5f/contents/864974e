@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Тренировки | Kendo Kyrgyzstan</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div class="header-wrap">
+			<div class="navbar">
+				<img
+					src="cropped-logo_a3-1-removebg-preview.png"
+					alt="Логотип"
+					class="logo"
+				/>
+				<nav class="nav-menu">
+					<a href="index.html"
+						><button class="nav-btn">Главная</button></a
+					>
+					<a href="about.html"><button class="nav-btn">О Нас</button></a>
+					<a href="news.html"><button class="nav-btn">Новости</button></a>
+					<a href="trainings.html"
+						><button class="nav-btn active">Тренировки</button></a
+					>
+					<a href="photo.html"><button class="nav-btn">Фото</button></a>
+					<a href="contact.html"><button class="nav-btn">Контакт</button></a>
+					<a href="links.html"><button class="nav-btn">Ссылки</button></a>
+				</nav>
+			</div>
+		</div>
+		<main class="main-content">
+			<div
+				class="card"
+				style="
+					display: flex;
+					gap: 36px;
+					align-items: flex-start;
+					flex-wrap: wrap;
+				"
+			>
+				<div style="flex: 1; min-width: 260px">
+					<h2>Тренировки</h2>
+					<p
+						style="
+							font-size: 1.15em;
+							color: #3e4e4b;
+						"
+					>
+						Тренировки проходят в просторном зале, где каждый может почувствовать

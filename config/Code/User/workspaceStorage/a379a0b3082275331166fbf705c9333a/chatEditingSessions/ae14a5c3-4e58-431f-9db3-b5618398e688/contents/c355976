@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Ссылки | Kendo Kyrgyzstan</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<header>
+			<nav>
+				<ul
+					style="
+						display: flex;
+						gap: 16px;
+						list-style: none;
+						padding: 0;
+						margin: 0;
+						align-items: center;
+					"
+				>
+					<li><a href="index.html">Главная</a></li>
+					<li><a href="about.html">О Нас</a></li>
+					<li><a href="iaido.html">Иайдо</a></li>
+					<li><a href="news.html">Новости</a></li>
+					<li><a href="trainings.html">Тренировки</a></li>
+					<li><a href="photo.html">Фото</a></li>
+					<li><a href="contact.html">Контакт</a></li>
+					<li><a href="links.html">Ссылки</a></li>
+				</ul>
+			</nav>
+		</header>
+		<main style="max-width: 800px; margin: 32px auto">
+			<img
+				src="https://kendo-kg.github.io/img/big/links.jpg"
+				alt="Links"
+				style="max-width: 100%; border-radius: 10px; margin-bottom: 24px"
+			/>
+			<h1>Полезные ссылки</h1>
+			<ul style="margin-top: 18px; color: #3e4e4b; font-size: 1.1em">
+				<li>
+					<a
+						href="https://www.instagram.com/kendo_kg/"
+						target="_blank"
+						style="color: #6e8b87; font-weight: 600"
+						>Instagram: @kendo_kg</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.kendo-fik.org/"
+						target="_blank"
+						style="color: #6e8b87; font-weight: 600"
+						>Международная федерация Кэндо (FIK)</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.ekf-eu.com/"
+						target="_blank"
+						style="color: #d34c4c; font-weight: 600"
+						>Европейская федерация Кэндо (EKF)</a
+					>
+				</li>
+			</ul>
+		</main>
+		<footer style="text-align: center; margin-top: 48px">
+			© 2025 Кыргызская Федерация Кендо
+		</footer>
+	</body>
+</html>

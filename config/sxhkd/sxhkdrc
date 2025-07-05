@@ -28,18 +28,13 @@ super + {d,x}
     {rofi -show drun,sh $HOME/bin/powermenu}
 
 # Launch Applications
-super + shift + {f,n,p,t,c,v,i,x,q,k,l}
-	{firefox, \
+super + shift + {g,f,o,t,v,k}
+	{chromium, \
 	thunar, \
-	pavucontrol, \
-	telegram-desktop, \
+	obsidian, \
+	Telegram, \
 	code, \
-	virtualbox, \
-	firefox --private-window, \
-	sh $HOME/bin/xcolor-pick, \
-	sh $HOME/bin/bible, \
-	alacritty -e calcurse, \
-	sh $HOME/bin/screen-lock}
+	alacritty -e calcurse}
      
 # Select window to close
 ctrl + super + alt + k
@@ -51,7 +46,10 @@ XF86Audio{RaiseVolume,LowerVolume,Mute}
 
 # Brightness controls
 XF86MonBrightness{Up,Down}
-    sh $HOME/bin/brightness{ --up, --down}
+	sh $HOME/bin/brightness{ --up, --down}    
+
+super + {Delete,Insert}
+	sh $HOME/bin/redshift-temp{ --up, --down}   
 
 # screenshot
 Print
@@ -123,11 +121,20 @@ super + ctrl + shift + space
 #
 
 # Expanding windows
-super + control {h,j,k,l}
-    bspc node -z {left -20 0,right 20 0,top 0 -20,bottom 0 20} 
+super + ctrl + Left
+    bspc node -z left -20 0
 
+super + ctrl + Right
+    bspc node -z right 20 0
+
+super + ctrl + Up
+    bspc node -z top 0 -20
+
+super + ctrl + Down
+    bspc node -z bottom 0 20
+    
 # Send the window to another edge of the screen
-super + {_,alt + }{h,j,k,l}
+super + {_,alt + }{Left,Down,Up,Right}
     bspc node -{f,s} {west,south,north,east}
 
 # move a floating window

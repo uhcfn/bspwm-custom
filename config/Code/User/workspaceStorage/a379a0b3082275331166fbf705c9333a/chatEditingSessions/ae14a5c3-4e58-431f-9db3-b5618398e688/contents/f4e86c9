@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>О Нас | Kendo Kyrgyzstan</title>
+		<link rel="stylesheet" href="style.css" />
+		<style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', 'Arial', sans-serif;
+      background: #f8f9fa;
+      color: #222;
+    }
+    .navbar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      z-index: 100;
+      background: #fff;
+      box-shadow: 0 2px 8px rgba(110,139,135,0.07);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0 0 8px 0;
+    }
+    .navbar .logo {
+      width: 64px;
+      height: 64px;
+      object-fit: contain;
+      margin: 12px auto 8px auto;
+      display: block;
+    }
+    nav ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      align-items: center;
+      justify-content: center;
+    }
+    nav li {
+      margin: 0;
+    }
+    nav a {
+      text-decoration: none;
+      color: #3e4e4b;
+      font-weight: 500;
+      padding: 8px 14px;
+      border-radius: 6px;
+      transition: background 0.2s, color 0.2s;
+      display: inline-block;
+    }
+    nav a:hover, nav a.active {
+      background: #e6f0ee;
+      color: #d34c4c;
+    }
+    main {
+      max-width: 800px;
+      margin: 120px auto 32px auto;
+      min-height: 200px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 48px;
+      color: #6e8b87;
+      font-size: 1em;
+      padding-bottom: 16px;
+    }
+    @media (max-width: 900px) {
+      nav ul {
+        gap: 8px;
+      }
+      .navbar .logo {
+        width: 56px;
+        height: 56px;
+      }
+    }
+    @media (max-width: 600px), (max-height: 600px) {
+      .navbar {
+        padding-bottom: 0;
+      }
+      .navbar .logo {
+        margin-bottom: 12px;
+      }
+      nav ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+      }
+      nav a {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+	</head>
+	<body>
+    <div class="navbar">
+      <img src="img/logo.png" alt="Логотип" class="logo" />
+      <nav>
+        <ul>
+          <li><a href="index.html">Главная</a></li>
+          <li><a href="about.html" class="active">О Нас</a></li>
+          <li><a href="iaido.html">Иайдо</a></li>
+          <li><a href="news.html">Новости</a></li>
+          <li><a href="trainings.html">Тренировки</a></li>
+          <li><a href="photo.html">Фото</a></li>
+          <li><a href="contact.html">Контакт</a></li>
+          <li><a href="links.html">Ссылки</a></li>
+        </ul>
+      </nav>
+    </div>
+		<main></main>
+		<footer>© 2025 Кыргызская Федерация Кендо</footer>
+	</body>
+</html>

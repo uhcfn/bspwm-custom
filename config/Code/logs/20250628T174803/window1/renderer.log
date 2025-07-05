@@ -1,0 +1,21 @@
+2025-06-28 17:48:05.534 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 17:48:05.561 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 17:48:05.561 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 17:48:07.114 [info] Started local extension host with pid 2779.
+2025-06-28 17:48:07.271 [info] ComputeTargetPlatform: linux-x64
+2025-06-28 17:48:12.216 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-28 17:48:15.265 [info] Extension host (LocalProcess pid: 2779) is unresponsive.
+2025-06-28 17:48:16.625 [info] Extension host (LocalProcess pid: 2779) is responsive.
+2025-06-28 17:48:16.634 [info] [perf] Render performance baseline is 82ms
+2025-06-28 17:48:17.544 [error] [Extension Host] (node:2779) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-28 17:59:27.544 [error] ChatSessionStore: Error reading chat session file e2ed2470-0ef8-452e-8c63-7f6916116353 Не удалось считать файл "/home/uhcfn/.config/Code/User/workspaceStorage/a379a0b3082275331166fbf705c9333a/chatSessions/e2ed2470-0ef8-452e-8c63-7f6916116353.json" (Error: Невозможно разрешить несуществующий файл "/home/uhcfn/.config/Code/User/workspaceStorage/a379a0b3082275331166fbf705c9333a/chatSessions/e2ed2470-0ef8-452e-8c63-7f6916116353.json")
+2025-06-28 18:07:39.510 [error] Error while handling chat request: Canceled: Canceled: Canceled
+    at gC (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3348:37210
+    at Array.forEach (<anonymous>)
+    at rkt.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3348:37150)
+    at mTe.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3348:48827)
+    at Dnn.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3355:7461)
+    at Enn.stopAllInReverse (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3355:6763)
+    at async zyt.tb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3354:16229)

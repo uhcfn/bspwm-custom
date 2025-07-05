@@ -1,0 +1,26 @@
+2025-06-28 17:48:19.339 [info] Using the Electron fetcher.
+2025-06-28 17:48:19.339 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-06-28 17:48:19.339 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-06-28 17:48:19.339 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-06-28 17:48:19.339 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-06-28 17:48:21.162 [info] Logged in as uhcfn
+2025-06-28 17:48:27.578 [info] Got Copilot token for uhcfn
+2025-06-28 17:48:27.622 [info] activationBlocker from 'languageModelAccess' took for 6595ms
+2025-06-28 17:48:27.800 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-28 17:48:27.800 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-06-28 17:48:27.843 [info] Registering default platform agent...
+2025-06-28 17:48:27.843 [info] activationBlocker from 'conversationFeature' took for 6835ms
+2025-06-28 17:48:28.426 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-28 17:48:36.541 [info] Fetched model metadata in 8922ms 2aa8227a-bf1e-48ba-bbcc-73ff0d6e8728
+2025-06-28 18:01:15.684 [info] Fetched model metadata in 26075ms f8cd4fe6-3cd1-40fd-9a4c-6403cd8ebe53
+2025-06-28 18:02:19.088 [info] Request ID for failed request: 669c1b6d-6651-4040-aed1-c026a864df71
+2025-06-28 18:02:19.093 [error] Request Failed: 408 {"error":{"message":"Timed out reading request body. Try again, or use a smaller request size.","code":"user_request_timeout"}}
+2025-06-28 18:04:05.877 [info] Request ID for failed request: 34892a78-e8c9-440b-8084-ccf9488c7bbb
+2025-06-28 18:04:05.882 [error] Request Failed: 408 {"error":{"message":"Timed out reading request body. Try again, or use a smaller request size.","code":"user_request_timeout"}}
+2025-06-28 18:04:50.385 [info] message 0 returned. finish reason: [tool_calls]
+2025-06-28 18:04:50.385 [info] request done: requestId: [4e45e6b7-7b51-49b4-9827-2957dad138ba] model deployment ID: []
+2025-06-28 18:04:53.862 [info] message 0 returned. finish reason: [stop]
+2025-06-28 18:04:53.862 [info] request done: requestId: [ebf4018c-fe44-4746-b30a-2907c804508e] model deployment ID: []
+2025-06-28 18:04:53.873 [info] srequest done: chatRequestId: [4e45e6b7-7b51-49b4-9827-2957dad138ba], speculationRequestId: [271d761d-f175-4392-9a0a-bea5777e0392]
+2025-06-28 18:05:59.661 [info] Request ID for failed request: 4e45e6b7-7b51-49b4-9827-2957dad138ba
+2025-06-28 18:05:59.663 [error] Request Failed: 408 {"error":{"message":"Timed out reading request body. Try again, or use a smaller request size.","code":"user_request_timeout"}}

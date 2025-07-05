@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Кыргызская Федерация Кендо</title>
+		<style>
+			body {
+				font-family: sans-serif;
+				margin: 0;
+				background: #f5f5f7;
+			}
+			header {
+				background: #d34c4c;
+				padding: 20px;
+				display: flex;
+				align-items: center;
+				position: relative;
+			}
+			header img {
+				position: absolute;
+				top: 10px;
+				left: 10px;
+				width: 80px;
+				height: auto;
+			}
+			nav {
+				margin-left: auto;
+			}
+			nav button {
+				margin: 0 5px;
+				padding: 8px 16px;
+				border: none;
+				cursor: pointer;
+				background: #ebaaaa;
+				border-radius: 6px;
+			}
+			nav button.active {
+				background: #a36552;
+				color: rgb(219, 85, 85);
+			}
+			.card {
+				background: rgb(240, 163, 163);
+				border-radius: 16px;
+				box-shadow: 0 2px 5px rgb(0, 0, 0);
+				padding: 20px;
+				margin-top: 20px;
+			}
+			footer {
+				text-align: center;
+				margin-top: 20px;
+				font-size: 14px;
+				color: #666;
+			}
+			h2 {
+				margin-top: 0;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div
+			class="container"
+			style="max-width: 800px; margin: auto; padding: 20px"
+		>
+			<header>
+				<img src="cropped-logo_a3-1-removebg-preview.png" alt="Логотип" />
+				<h1 style="margin-left: 100px">Кыргызская Федерация Кендо</h1>
+				<nav id="menu"></nav>
+			</header>
+			<div id="content" class="card"></div>
+			<footer>© 2025 Кыргызская Федерация Кендо</footer>
+		</div>
+		<script>
+			const menuItems = [ { key: "home", label: "О Кендо в Кыргызстане" }, { key: "work", label: "Как проходят тренировки" }, { key: "partners", label: "Сенсеи и ученики" }, { key: "contacts", label: "Контакты" }, ];
+			const contentMap = {
+			home: <h2>Кыргызская Федерация кендо</h2><p **Приветствие и краткая история кэндо в Кыргызстане**
+
+			Добро пожаловать в кэндо в Кыргызстане!
+
+			Кэндо — это японское боевое искусство владения мечом, которое сочетает в себе спорт, философию и путь самосовершенствования. В Кыргызстане история кэндо началась в начале 2000-х годов, когда в Бишкеке стали появляться первые энтузиасты этого древнего боевого искусства.
+
+			В 2004 году в Кыргызстан прибыл мастер кэндо из Японии Чикатоси Кояма, который провёл первые обучающие семинары. Этот визит дал сильный импульс развитию кэндо в стране. Уже в 2008 году была официально основана Федерация кэндо Кыргызстана. С тех пор федерация активно развивает кэндо, проводит фестивали, соревнования и семинары, популяризируя искусство японского меча среди детей, молодёжи и взрослых.
+
+			Сегодня кэндо в Кыргызстане объединяет людей, которые ценят дисциплину, уважение и дух воина. Приглашаем вас присоединиться к нашему пути меча!
+			  </p>,
+
+			work: <h2>Как проходят тренировки </h2><p>с кайфом</p>,
+			partners: <h2>Партнеры и агенты</h2><p> Сегодня Федерация кэндо Кыргызстана объединяет более 10 опытных сенсеев и более 20 учеников, которые постоянно совершенствуют своё мастерство. В федерации на данный момент есть 4 официальных обладателя первого дана, подтверждённого Европейской федерацией кэндо (EKF) и Всеяпонской федерацией кэндо (AJKF). Эти достижения подтверждают высокий уровень подготовки и стремление федерации к развитию кэндо в Кыргызстане.</p>,
+			contacts: <h2>Контакты</h2><p>г. Бишкек, ул. Чуйкова,138<br/>Тел.: +996 703 55 49 13 <br/>Email: aidartoloov05l@gmail.com</p>,
+			};
+			const menuContainer = document.getElementById('menu');
+			const contentContainer = document.getElementById('content');
+			function renderMenu(activeKey) { menuContainer.innerHTML = ''; menuItems.forEach(item => { const btn = document.createElement('button'); btn.textContent = item.label; btn.classList.toggle('active', item.key === activeKey); btn.onclick = () => { renderContent(item.key); renderMenu(item.key); }; menuContainer.appendChild(btn); }); }
+			function renderContent(key) { contentContainer.innerHTML = contentMap[key] || ''; }
+			renderMenu('home'); renderContent('home');
+		</script>
+	</body>
+</html>

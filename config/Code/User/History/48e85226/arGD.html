@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Главная | Kendo Kyrgyzstan</title>
+		<link rel="stylesheet" href="style.css" />
+		<style>
+			/* Стили для страницы */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header-wrap {
+  background-color: #3e4e4b;
+  color: white;
+  padding: 10px 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 15px;
+}
+
+.nav-btn {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.nav-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.active {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.main-content {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.card {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+h2 {
+  color: #3e4e4b;
+}
+
+footer {
+  background-color: #3e4e4b;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-menu {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .main-content {
+    margin: 20px;
+    padding: 0 10px;
+  }
+}
+
+		</style>
+	</head>
+	<body>
+		<div class="navbar">
+			<img src="img/logo.png" alt="Логотип" class="logo" />
+			<nav>
+				<ul>
+					<li><a href="index.html" class="active">Главная</a></li>
+					<li><a href="about.html">О Нас</a></li>
+					<li><a href="iaido.html">Иайдо</a></li>
+					<li><a href="news.html">Новости</a></li>
+					<li><a href="trainings.html">Тренировки</a></li>
+					<li><a href="photo.html">Фото</a></li>
+					<li><a href="contact.html">Контакт</a></li>
+					<li><a href="links.html">Ссылки</a></li>
+				</ul>
+			</nav>
+		</div>
+		<main></main>
+		<footer>© 2025 Кыргызская Федерация Кендо</footer>
+	</body>
+</html>

@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/uhcfn/.config/bspwm/bspwmrc" added="2025-06-26T11:27:08.535848Z" modified="2025-06-26T11:27:08.535857Z" visited="2025-06-26T11:27:08.535850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:27:08.535854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/.config/bspwm/scripts/launch.sh" added="2025-06-26T11:27:40.347707Z" modified="2025-06-26T11:27:40.347714Z" visited="2025-06-26T11:27:40.347709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:27:40.347710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/.config/bspwm/picom_configurations/1.conf" added="2025-06-26T11:28:05.797059Z" modified="2025-06-26T11:28:05.797067Z" visited="2025-06-26T11:28:05.797061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:28:05.797062Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/.config/bspwm/picom_configurations/2.conf" added="2025-06-26T11:29:40.631857Z" modified="2025-06-26T11:29:40.631865Z" visited="2025-06-26T11:29:40.631858Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:29:40.631860Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/.config/bspwm/picom_configurations/3.conf" added="2025-06-26T11:30:20.958414Z" modified="2025-06-26T11:30:20.958422Z" visited="2025-06-26T11:30:20.958415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:30:20.958417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/.config/polybar/config.ini" added="2025-06-26T11:32:16.612060Z" modified="2025-06-26T11:40:38.544301Z" visited="2025-06-26T11:32:16.612061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:40:38.544297Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/.config/polybar/colors.ini" added="2025-06-26T11:39:44.637711Z" modified="2025-06-26T11:39:44.637718Z" visited="2025-06-26T11:39:44.637712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:39:44.637714Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/.config/polybar/modules.ini" added="2025-06-26T11:40:15.358430Z" modified="2025-06-26T11:40:15.358438Z" visited="2025-06-26T11:40:15.358431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:40:15.358433Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/.config/alacritty/alacritty.toml" added="2025-06-26T11:45:48.121748Z" modified="2025-06-26T11:45:48.121758Z" visited="2025-06-26T11:45:48.121750Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/toml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T11:45:48.121754Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/Documents/vnkvnkwn.txt" added="2025-06-26T18:45:10.156846Z" modified="2025-06-26T18:45:10.156854Z" visited="2025-06-26T18:45:10.156847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T18:45:10.156849Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/Downloads" added="2025-06-26T22:24:05.062559Z" modified="2025-06-26T22:24:05.062566Z" visited="2025-06-26T22:24:05.062560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-26T22:24:05.062562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/bspwm-custom/firefox/install.sh" added="2025-06-26T22:38:31.758534Z" modified="2025-06-26T22:39:54.776928Z" visited="2025-06-26T22:38:31.758537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T22:39:54.776923Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/bspwm-custom/firefox/user.js" added="2025-06-26T22:38:51.221990Z" modified="2025-06-26T22:38:51.221999Z" visited="2025-06-26T22:38:51.221991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T22:38:51.221994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/bspwm-custom/firefox/chrome/left-arrow.svg" added="2025-06-26T22:39:13.101860Z" modified="2025-06-26T22:39:13.101870Z" visited="2025-06-26T22:39:13.101862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T22:39:13.101865Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/bspwm-custom/firefox/chrome/userContent.css" added="2025-06-26T22:39:29.778458Z" modified="2025-06-26T22:39:29.778468Z" visited="2025-06-26T22:39:29.778460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-26T22:39:29.778462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/Documents/codeProject" added="2025-06-27T12:39:06.147444Z" modified="2025-06-27T12:39:06.147452Z" visited="2025-06-27T12:39:06.147446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-06-27T12:39:06.147448Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/Code_proj" added="2025-06-27T13:22:29.951597Z" modified="2025-06-27T13:22:29.951610Z" visited="2025-06-27T13:22:29.951599Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-06-27T13:22:29.951603Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS" added="2025-06-28T11:20:25.502899Z" modified="2025-07-01T19:27:46.720536Z" visited="2025-06-28T11:20:25.502901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-07-01T19:27:46.720531Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/VScode" added="2025-06-28T11:22:42.416726Z" modified="2025-06-28T11:22:42.416737Z" visited="2025-06-28T11:22:42.416728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-06-28T11:22:42.416731Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/VScode/education-logo-design,-education-center-logo-template-c87a3fb2c989b874af0d8670922fd363_screen.jpg" added="2025-06-28T11:47:53.319551Z" modified="2025-06-28T11:47:53.319566Z" visited="2025-06-28T11:47:53.319553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-06-28T11:47:53.319558Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/aboutUs1.jpg" added="2025-07-02T12:17:09.463549Z" modified="2025-07-02T12:17:09.463598Z" visited="2025-07-02T12:17:09.463551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:17:09.463590Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/aboutUs2.jpg" added="2025-07-02T12:18:04.066586Z" modified="2025-07-02T12:18:04.066602Z" visited="2025-07-02T12:18:04.066588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:18:04.066594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/news3.jpg" added="2025-07-02T12:20:01.007064Z" modified="2025-07-02T12:20:01.007074Z" visited="2025-07-02T12:20:01.007066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:20:01.007069Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/welcome.jpg" added="2025-07-02T12:20:46.223969Z" modified="2025-07-02T12:20:46.223984Z" visited="2025-07-02T12:20:46.223971Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:20:46.223977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/news2.jpg" added="2025-07-02T12:21:20.816868Z" modified="2025-07-02T12:21:20.816883Z" visited="2025-07-02T12:21:20.816870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:21:20.816876Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/news1.jpg" added="2025-07-02T12:21:34.866328Z" modified="2025-07-02T12:21:34.866342Z" visited="2025-07-02T12:21:34.866330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:21:34.866335Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/address.jpg" added="2025-07-02T12:22:24.819129Z" modified="2025-07-02T12:22:24.819144Z" visited="2025-07-02T12:22:24.819131Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:22:24.819137Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/training.jpg" added="2025-07-02T12:22:39.482368Z" modified="2025-07-02T12:22:39.482382Z" visited="2025-07-02T12:22:39.482369Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:22:39.482374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/equipment.jpg" added="2025-07-02T12:23:00.548119Z" modified="2025-07-02T12:23:00.548134Z" visited="2025-07-02T12:23:00.548121Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:23:00.548127Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/1.jpg" added="2025-07-02T12:24:24.112763Z" modified="2025-07-02T12:24:24.112777Z" visited="2025-07-02T12:24:24.112765Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:24:24.112770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/2.jpg" added="2025-07-02T12:24:32.623691Z" modified="2025-07-02T12:24:32.623710Z" visited="2025-07-02T12:24:32.623694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:24:32.623701Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/3.jpg" added="2025-07-02T12:24:41.706406Z" modified="2025-07-02T12:24:41.706420Z" visited="2025-07-02T12:24:41.706408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:24:41.706413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/4.jpg" added="2025-07-02T12:24:50.204363Z" modified="2025-07-02T12:24:50.204378Z" visited="2025-07-02T12:24:50.204365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:24:50.204371Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/5.jpg" added="2025-07-02T12:24:58.135726Z" modified="2025-07-02T12:24:58.135741Z" visited="2025-07-02T12:24:58.135728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:24:58.135733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/6.jpg" added="2025-07-02T12:25:06.985222Z" modified="2025-07-02T12:25:06.985237Z" visited="2025-07-02T12:25:06.985224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:25:06.985229Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/7.jpg" added="2025-07-02T12:25:16.676293Z" modified="2025-07-02T12:25:16.676307Z" visited="2025-07-02T12:25:16.676295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:25:16.676300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/8.jpg" added="2025-07-02T12:25:24.908348Z" modified="2025-07-02T12:25:24.908363Z" visited="2025-07-02T12:25:24.908350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:25:24.908356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/9.jpg" added="2025-07-02T12:25:33.913138Z" modified="2025-07-02T12:25:33.913152Z" visited="2025-07-02T12:25:33.913140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:25:33.913145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/10.jpg" added="2025-07-02T12:25:53.108463Z" modified="2025-07-02T12:25:53.108477Z" visited="2025-07-02T12:25:53.108465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:25:53.108470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/11.jpg" added="2025-07-02T12:26:03.521125Z" modified="2025-07-02T12:26:03.521140Z" visited="2025-07-02T12:26:03.521127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:26:03.521132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/12.jpg" added="2025-07-02T12:26:10.850824Z" modified="2025-07-02T12:26:10.850838Z" visited="2025-07-02T12:26:10.850826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:26:10.850832Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/13.jpg" added="2025-07-02T12:26:27.876000Z" modified="2025-07-02T12:26:27.876015Z" visited="2025-07-02T12:26:27.876003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:26:27.876008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/14.jpg" added="2025-07-02T12:26:33.292204Z" modified="2025-07-02T12:26:33.292219Z" visited="2025-07-02T12:26:33.292206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:26:33.292212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/15.jpg" added="2025-07-02T12:27:11.125499Z" modified="2025-07-02T12:27:11.125513Z" visited="2025-07-02T12:27:11.125501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:27:11.125506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/16.jpg" added="2025-07-02T12:27:19.630644Z" modified="2025-07-02T12:27:19.630658Z" visited="2025-07-02T12:27:19.630646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:27:19.630652Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/17.jpg" added="2025-07-02T12:27:26.874022Z" modified="2025-07-02T12:27:26.874030Z" visited="2025-07-02T12:27:26.874023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:27:26.874027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/18.jpg" added="2025-07-02T12:27:36.121350Z" modified="2025-07-02T12:27:36.121358Z" visited="2025-07-02T12:27:36.121351Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:27:36.121354Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/19.jpg" added="2025-07-02T12:27:46.206426Z" modified="2025-07-02T12:27:46.206441Z" visited="2025-07-02T12:27:46.206428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:27:46.206433Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/20.jpg" added="2025-07-02T12:28:11.424532Z" modified="2025-07-02T12:28:11.424542Z" visited="2025-07-02T12:28:11.424533Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:28:11.424537Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/21.jpg" added="2025-07-02T12:28:26.959320Z" modified="2025-07-02T12:28:26.959335Z" visited="2025-07-02T12:28:26.959322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:28:26.959328Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/22.jpg" added="2025-07-02T12:28:35.168762Z" modified="2025-07-02T12:28:35.168782Z" visited="2025-07-02T12:28:35.168765Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:28:35.168772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/23.jpg" added="2025-07-02T12:28:48.102198Z" modified="2025-07-02T12:28:48.102213Z" visited="2025-07-02T12:28:48.102200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:28:48.102206Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/24.jpg" added="2025-07-02T12:29:03.748333Z" modified="2025-07-02T12:29:03.748348Z" visited="2025-07-02T12:29:03.748335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:29:03.748341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/26.jpg" added="2025-07-02T12:31:00.837930Z" modified="2025-07-02T12:31:00.837944Z" visited="2025-07-02T12:31:00.837932Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:31:00.837937Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/25.jpg" added="2025-07-02T12:32:06.886907Z" modified="2025-07-02T12:32:06.886919Z" visited="2025-07-02T12:32:06.886909Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:32:06.886913Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/27.jpg" added="2025-07-02T12:32:20.860042Z" modified="2025-07-02T12:32:20.860052Z" visited="2025-07-02T12:32:20.860043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:32:20.860047Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/28.jpg" added="2025-07-02T12:32:28.585374Z" modified="2025-07-02T12:32:28.585388Z" visited="2025-07-02T12:32:28.585376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:32:28.585381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/29.jpg" added="2025-07-02T12:32:42.383473Z" modified="2025-07-02T12:32:42.383487Z" visited="2025-07-02T12:32:42.383475Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:32:42.383480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/30.jpg" added="2025-07-02T12:33:19.718121Z" modified="2025-07-02T12:33:19.718136Z" visited="2025-07-02T12:33:19.718124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:33:19.718129Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/31.jpg" added="2025-07-02T12:33:28.888987Z" modified="2025-07-02T12:33:28.889002Z" visited="2025-07-02T12:33:28.888989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:33:28.888994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/phone.jpg" added="2025-07-02T12:37:37.774764Z" modified="2025-07-02T12:37:37.774771Z" visited="2025-07-02T12:37:37.774765Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:37:37.774767Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/email.jpg" added="2025-07-02T12:37:51.169292Z" modified="2025-07-02T12:37:51.169307Z" visited="2025-07-02T12:37:51.169295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:37:51.169300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/links.jpg" added="2025-07-02T12:38:04.936634Z" modified="2025-07-02T12:38:04.936652Z" visited="2025-07-02T12:38:04.936636Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:38:04.936643Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/logo.png" added="2025-07-02T12:38:47.061486Z" modified="2025-07-02T23:42:32.713628Z" visited="2025-07-02T12:38:47.061488Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T23:42:32.713622Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/logo_new.jpeg" added="2025-07-02T12:40:47.030315Z" modified="2025-07-02T12:40:47.030330Z" visited="2025-07-02T12:40:47.030318Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-07-02T12:40:47.030323Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/uhcfn/project_VS/img/background.jpg" added="2025-07-02T16:42:24.315446Z" modified="2025-07-02T16:42:28.468441Z" visited="2025-07-02T16:42:24.315448Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Pinta" exec="&apos;pinta %u&apos;" modified="2025-07-02T16:42:28.468436Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

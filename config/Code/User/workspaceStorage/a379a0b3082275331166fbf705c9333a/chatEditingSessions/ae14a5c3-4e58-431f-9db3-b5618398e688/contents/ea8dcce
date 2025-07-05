@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Новости | Kendo Kyrgyzstan</title>
+		<link rel="stylesheet" href="style.css" />
+		<style>
+			/* Стили скопированы из about.html */
+		</style>
+	</head>
+	<body>
+		<div class="navbar">
+			<img src="img/logo.png" alt="Логотип" class="logo" />
+			<nav>
+				<ul>
+					<li><a href="index.html">Главная</a></li>
+					<li><a href="about.html">О Нас</a></li>
+					<li><a href="iaido.html">Иайдо</a></li>
+					<li><a href="news.html" class="active">Новости</a></li>
+					<li><a href="trainings.html">Тренировки</a></li>
+					<li><a href="photo.html">Фото</a></li>
+					<li><a href="contact.html">Контакт</a></li>
+					<li><a href="links.html">Ссылки</a></li>
+				</ul>
+			</nav>
+		</div>
+		<main></main>
+		<footer>© 2025 Кыргызская Федерация Кендо</footer>
+	</body>
+</html>

@@ -1,0 +1,45 @@
+body {
+	background: black;
+	color: white;
+	font-family: 'Courier New', monospace;
+	margin: 0;
+	padding: 20px;
+}
+
+.terminal-frame {
+	background: black;
+	color: white;
+	font-size: 1em;
+	white-space: pre-wrap;
+	line-height: 1.6;
+	max-width: 600px;
+	margin: 40px auto;
+	border-radius: 8px;
+	box-shadow: 0 0 16px #222;
+	padding: 24px 18px 12px 18px;
+}
+
+#terminal {
+	min-height: 240px;
+	margin-bottom: 8px;
+}
+
+.terminal-input {
+	width: 100%;
+	background: black;
+	color: #00ff00;
+	border: none;
+	outline: none;
+	font-family: inherit;
+	font-size: 1em;
+	padding: 6px 0 6px 4px;
+	box-sizing: border-box;
+}
+
+.terminal-input::placeholder {
+	color: #666;
+}
+
+pre {
+	margin: 0;
+}

@@ -1,0 +1,30 @@
+2025-06-28 18:15:32.696 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 18:15:32.723 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 18:15:32.724 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-28 18:15:34.542 [info] Started local extension host with pid 6528.
+2025-06-28 18:15:35.305 [info] ComputeTargetPlatform: linux-x64
+2025-06-28 18:15:41.968 [error] [Extension Host] (node:6528) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-28 18:15:43.030 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-28 18:15:44.871 [info] [perf] Render performance baseline is 129ms
+2025-06-28 18:15:49.716 [info] Extension host (LocalProcess pid: 6528) is unresponsive.
+2025-06-28 18:15:50.199 [error] Error: Событие onWillSaveTextDocument-event прервано по истечении 1750 мс
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1307:10062
+2025-06-28 18:15:50.230 [error] Error: Событие onWillSaveTextDocument-event прервано по истечении 1750 мс
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1307:10062
+2025-06-28 18:15:50.231 [error] Error: Событие onWillSaveTextDocument-event прервано по истечении 1750 мс
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1307:10062
+2025-06-28 18:15:50.231 [error] Error: Событие onWillSaveTextDocument-event прервано по истечении 1750 мс
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1307:10062
+2025-06-28 18:15:50.236 [error] Error: Событие onWillSaveTextDocument-event прервано по истечении 1750 мс
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1307:10062
+2025-06-28 18:15:50.240 [error] Error: Событие onWillSaveTextDocument-event прервано по истечении 1750 мс
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1307:10062
+2025-06-28 18:15:50.241 [error] Error: Событие onWillSaveTextDocument-event прервано по истечении 1750 мс
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1307:10062
+2025-06-28 18:15:50.244 [error] Error: Событие onWillSaveTextDocument-event прервано по истечении 1750 мс
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1307:10062
+2025-06-28 18:15:50.898 [info] Extension host (LocalProcess pid: 6528) is responsive.
+2025-06-28 18:15:50.899 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-28 18:15:51.417 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-28 18:15:51.656 [warning] UNRESPONSIVE extension host: 'github.copilot-chat' took 74.24579231502065% of 4.676ms, saved PROFILE here: 'file:///tmp/exthost-8ee652.cpuprofile'

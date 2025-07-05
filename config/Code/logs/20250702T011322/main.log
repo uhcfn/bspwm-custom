@@ -1,0 +1,137 @@
+2025-07-02 01:13:22.913 [info] update#setState idle
+2025-07-02 01:13:52.922 [info] update#setState checking for updates
+2025-07-02 01:15:43.070 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4 - error undefined net::ERR_CONNECTION_TIMED_OUT
+2025-07-02 01:15:43.072 [error] update#isLatestVersion(): failed to check for updates
+2025-07-02 01:15:43.073 [error] Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-02 01:15:43.080 [error] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_CONNECTION_TIMED_OUT
+2025-07-02 01:15:43.081 [error] Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-02 01:15:43.081 [info] update#setState idle
+2025-07-02 01:27:47.801 [info] Extension host with pid 8339 exited with code: 0, signal: unknown.
+2025-07-02 02:13:52.926 [info] update#setState checking for updates
+2025-07-02 02:13:54.047 [info] update#setState idle
+2025-07-02 03:13:52.965 [info] update#setState checking for updates
+2025-07-02 03:13:54.004 [info] update#setState idle
+2025-07-02 04:13:52.992 [info] update#setState checking for updates
+2025-07-02 04:13:53.937 [info] update#setState idle
+2025-07-02 05:13:53.016 [info] update#setState checking for updates
+2025-07-02 05:13:53.035 [error] #6: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-02 05:13:53.036 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-02 05:13:53.040 [info] update#setState idle
+2025-07-02 06:13:53.041 [info] update#setState checking for updates
+2025-07-02 06:13:53.058 [error] #7: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-02 06:13:53.060 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-02 06:13:53.064 [info] update#setState idle
+2025-07-02 07:13:53.060 [info] update#setState checking for updates
+2025-07-02 07:13:53.092 [error] #8: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-02 07:13:53.094 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-02 07:13:53.098 [info] update#setState idle
+2025-07-02 08:13:53.085 [info] update#setState checking for updates
+2025-07-02 08:13:53.113 [error] #9: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-02 08:13:53.115 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-02 08:13:53.118 [info] update#setState idle
+2025-07-02 09:13:53.107 [info] update#setState checking for updates
+2025-07-02 09:13:53.134 [error] #10: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-02 09:13:53.139 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-02 09:13:53.143 [info] update#setState idle
+2025-07-02 18:54:05.626 [info] update#setState checking for updates
+2025-07-02 18:54:06.734 [info] update#setState idle
+2025-07-02 19:54:05.657 [info] update#setState checking for updates
+2025-07-02 19:54:07.858 [info] update#setState idle
+2025-07-02 20:54:05.680 [info] update#setState checking for updates
+2025-07-02 20:54:06.602 [info] update#setState idle
+2025-07-02 21:54:05.707 [info] update#setState checking for updates
+2025-07-02 21:54:06.611 [info] update#setState idle
+2025-07-03 05:41:06.980 [info] update#setState checking for updates
+2025-07-03 05:41:07.753 [info] update#setState idle
+2025-07-03 18:49:29.235 [info] update#setState checking for updates
+2025-07-03 18:49:29.247 [error] #16: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-03 18:49:29.249 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-03 18:49:29.252 [info] update#setState idle
+2025-07-03 19:49:29.247 [info] update#setState checking for updates
+2025-07-03 19:49:29.257 [error] #17: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-03 19:49:29.257 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-03 19:49:29.257 [info] update#setState idle
+2025-07-03 20:49:29.264 [info] update#setState checking for updates
+2025-07-03 20:49:29.272 [error] #18: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-03 20:49:29.273 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-03 20:49:29.273 [info] update#setState idle
+2025-07-03 21:49:29.280 [info] update#setState checking for updates
+2025-07-03 21:49:29.287 [error] #19: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-03 21:49:29.288 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-03 21:49:29.288 [info] update#setState idle
+2025-07-03 22:49:29.285 [info] update#setState checking for updates
+2025-07-03 22:49:29.290 [error] #20: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-03 22:49:29.291 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-03 22:49:29.291 [info] update#setState idle
+2025-07-03 23:49:29.299 [info] update#setState checking for updates
+2025-07-03 23:49:29.308 [error] #21: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-03 23:49:29.308 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-03 23:49:29.309 [info] update#setState idle
+2025-07-04 00:49:29.312 [info] update#setState checking for updates
+2025-07-04 00:49:30.159 [info] update#setState idle
+2025-07-04 01:49:29.316 [info] update#setState checking for updates
+2025-07-04 01:49:30.737 [info] update#setState idle
+2025-07-04 03:20:49.645 [info] update#setState checking for updates
+2025-07-04 03:20:50.672 [info] update#setState idle
+2025-07-04 04:20:49.684 [info] update#setState checking for updates
+2025-07-04 04:20:49.710 [error] #25: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-04 04:20:49.713 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-04 04:20:49.719 [info] update#setState idle
+2025-07-04 05:20:49.716 [info] update#setState checking for updates
+2025-07-04 05:20:49.731 [error] #26: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-04 05:20:49.733 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-04 05:20:49.738 [info] update#setState idle
+2025-07-04 06:20:49.749 [info] update#setState checking for updates
+2025-07-04 06:20:49.767 [error] #27: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-04 06:20:49.768 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-04 06:20:49.772 [info] update#setState idle
+2025-07-04 07:20:49.782 [info] update#setState checking for updates
+2025-07-04 07:20:49.801 [error] #28: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-04 07:20:49.802 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-04 07:20:49.807 [info] update#setState idle
+2025-07-04 08:20:49.813 [info] update#setState checking for updates
+2025-07-04 08:20:49.827 [error] #29: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-04 08:20:49.829 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-04 08:20:49.833 [info] update#setState idle
+2025-07-04 09:20:49.839 [info] update#setState checking for updates
+2025-07-04 09:20:49.857 [error] #30: https://update.code.visualstudio.com/api/update/linux-x64/stable/2901c5ac6db8a986a5666c3af51ff804d05af0d4?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-07-04 09:20:49.858 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-07-04 09:20:49.863 [info] update#setState idle

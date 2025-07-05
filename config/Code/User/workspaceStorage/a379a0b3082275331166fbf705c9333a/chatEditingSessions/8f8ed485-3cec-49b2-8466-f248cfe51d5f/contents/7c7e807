@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Контакт | Kendo Kyrgyzstan</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div class="header-wrap">
+			<div class="navbar">
+				<img
+					src="cropped-logo_a3-1-removebg-preview.png"
+					alt="Логотип"
+					class="logo"
+				/>
+				<nav class="nav-menu">
+					<a href="index.html"><button class="nav-btn">Главная</button></a>
+					<a href="about.html"><button class="nav-btn">О Нас</button></a>
+					<a href="news.html"><button class="nav-btn">Новости</button></a>
+					<a href="trainings.html"
+						><button class="nav-btn">Тренировки</button></a
+					>
+					<a href="photo.html"><button class="nav-btn">Фото</button></a>
+					<a href="contact.html"
+						><button class="nav-btn active">Контакт</button></a
+					>
+					<a href="links.html"><button class="nav-btn">Ссылки</button></a>
+				</nav>
+			</div>
+		</div>
+		<main class="main-content">
+			<div
+				class="card"
+				style="
+					display: flex;
+					gap: 36px;
+					align-items: flex-start;
+					flex-wrap: wrap;
+				"
+			>
+				<div style="flex: 1; min-width: 260px">
+					<h2>Контакты</h2>
+					<p style="font-size: 1.15em; color: #3e4e4b">
+						<b>Адрес:</b> г. Бишкек, ул. Чуйкова, 138<br />
+						<b>Тел.:</b>
+						<a
+							href="tel:+996703554913"
+							style="color: #d34c4c; text-decoration: none"
+							>+996 703 55 49 13</a
+						><br />
+						<b>Email:</b>
+						<a
+							href="mailto:aidartoloov05l@gmail.com"
+							style="color: #6e8b87; text-decoration: none"
+							>aidartoloov05l@gmail.com</a
+						>
+					</p>
+					<div style="margin-top: 18px">
+						<a
+							href="https://wa.me/996703554913"
+							target="_blank"
+							style="
+								background: #6e8b87;
+								color: #fff;
+								padding: 10px 18px;
+								border-radius: 6px;
+								text-decoration: none;
+								font-weight: 600;
+								margin-right: 10px;
+							"
+							>WhatsApp</a
+						>
+						<a
+							href="mailto:aidartoloov05l@gmail.com"
+							style="
+								background: #d34c4c;
+								color: #fff;
+								padding: 10px 18px;
+								border-radius: 6px;
+								text-decoration: none;
+								font-weight: 600;
+							"
+							>Написать на почту</a
+						>
+					</div>
+				</div>
+				<img
+					src="https://images.unsplash.com/photo-1465101178521-c1a9136a3fdc?auto=format&fit=crop&w=400&q=80"
+					alt="contact"
+					style="
+						border-radius: 14px;
+						max-width: 320px;
+						width: 100%;
+						box-shadow: 0 2px 12px rgba(110, 139, 135, 0.13);
+					"
+				/>
+			</div>
+		</main>
+		<footer>© 2025 Кыргызская Федерация Кендо</footer>
+		<script src="script.js"></script>
+	</body>
+</html>

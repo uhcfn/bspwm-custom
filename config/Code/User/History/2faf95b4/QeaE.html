@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Генератор абсурдных дел</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<h1>🌀 Генератор абсурдных дел на день</h1>
+			<p class="subtitle">
+				Составь список из 3 задач — максимально абсурдных или почти нормальных
+			</p>
+
+			<div class="filters">
+				<p style="margin-bottom: 10px">Уровень абсурда:</p>
+				<div class="radio-group">
+					<label>
+						<input type="radio" name="absurdity" value="почти норм" checked />
+						1 — почти норм
+					</label>
+					<label>
+						<input type="radio" name="absurdity" value="полубред" />
+						2 — с долей смысла
+					</label>
+					<label>
+						<input type="radio" name="absurdity" value="бред" />
+						3 — абсолютный бред
+					</label>
+				</div>
+			</div>
+
+			<button id="generateBtn">🎲 Сгенерировать</button>
+			<ul id="taskList"></ul>
+			<hr />
+			<button id="enterDark">🚫 НЕ НАЖИМАТЬ</button>
+		</div>
+
+		<div class="modal hidden" id="confirmationModal">
+			<pre class="modal-frame">
+┌────────────────────────────────────────────────────┐
+│ ВНИМАНИЕ                                           │
+│ Эта страница содержит материалы, способные         │
+│ повлиять на ваше восприятие.                      │
+│                                                    │
+│ Ответственность за последствия несёте вы.          │
+│                                                    │
+│ Введите "yes" для продолжения, "no" — для отмены. │
+│                                                    │
+│ > <input type="text" id="confirmInput" placeholder="yes or no" />                      │
+└────────────────────────────────────────────────────┘
+    </pre>
+		</div>
+
+		<script src="script.js"></script>
+	</body>
+</html>

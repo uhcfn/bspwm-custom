@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/home/uhcfn/Documents/codeProject"
+		},
+		{
+			"path": "/home/uhcfn/Code_proj"
+		},
+		{
+			"path": "../../../../project_VS"
+		},
+		{
+			"path": "../../../../VScode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VScode"
+	}
+}

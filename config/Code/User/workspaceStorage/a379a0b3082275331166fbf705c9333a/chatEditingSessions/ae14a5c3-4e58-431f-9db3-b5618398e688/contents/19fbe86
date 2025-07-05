@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Тренировки | Kendo Kyrgyzstan</title>
+		<link rel="stylesheet" href="style.css" />
+		<style>
+			/* Стили скопированы из about.html */
+			* {
+				box-sizing: border-box;
+				margin: 0;
+				padding: 0;
+			}
+
+			body {
+				font-family: Arial, sans-serif;
+				line-height: 1.6;
+				background-color: #f4f4f4;
+				color: #333;
+			}
+
+			.header-wrap {
+				background-color: #fff;
+				padding: 10px 0;
+				box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+			}
+
+			.navbar {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				max-width: 1200px;
+				margin: 0 auto;
+				padding: 0 20px;
+			}
+
+			.logo {
+				height: 50px;
+			}
+
+			.nav-menu {
+				list-style: none;
+				display: flex;
+				gap: 10px;
+			}
+
+			.nav-btn {
+				background-color: transparent;
+				border: none;
+				padding: 10px 20px;
+				cursor: pointer;
+				font-size: 1em;
+				transition: background-color 0.3s;
+			}
+
+			.nav-btn:hover,
+			.nav-btn.active {
+				background-color: #007bff;
+				color: white;
+				border-radius: 4px;
+			}
+
+			.main-content {
+				max-width: 800px;
+				margin: 20px auto;
+				padding: 20px;
+				background-color: #fff;
+				border-radius: 8px;
+				box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+			}
+
+			.card {
+				display: flex;
+				gap: 20px;
+				align-items: flex-start;
+				flex-wrap: wrap;
+			}
+
+			.card h2 {
+				font-size: 1.8em;
+				margin-bottom: 10px;
+			}
+
+			.card p {
+				margin-bottom: 10px;
+				line-height: 1.5;
+			}
+
+			.card ul {
+				margin-top: 10px;
+				margin-bottom: 20px;
+				padding-left: 20px;
+				list-style-type: disc;
+			}
+
+			.card ul li {
+				margin-bottom: 5px;
+			}
+
+			.card img {
+				border-radius: 8px;
+				max-width: 100%;
+				height: auto;
+				box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+			}
+
+			footer {
+				text-align: center;
+				padding: 10px 0;
+				background-color: #fff;
+				position: relative;
+				bottom: 0;
+				width: 100%;
+				border-top: 1px solid #ddd;
+			}
+
+			@media (max-width: 768px) {
+				.nav-menu {
+					flex-direction: column;
+					gap: 5px;
+				}
+
+				.card {
+					flex-direction: column;
+					align-items: center;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<div class="navbar">
+			<img src="img/logo.png" alt="Логотип" class="logo" />
+			<nav>
+				<ul>
+					<li><a href="index.html">Главная</a></li>
+					<li><a href="about.html">О Нас</a></li>
+					<li><a href="iaido.html">Иайдо</a></li>
+					<li><a href="news.html">Новости</a></li>
+					<li><a href="trainings.html">Тренировки</a></li>
+					<li><a href="photo.html">Фото</a></li>
+					<li><a href="contact.html">Контакт</a></li>
+					<li><a href="links.html">Ссылки</a></li>
+				</ul>
+			</nav>
+		</div>
+		<main></main>
+		<footer>© 2025 Кыргызская Федерация Кендо</footer>
+	</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>О Нас | Kendo Kyrgyzstan</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul style="display: flex; gap: 16px; list-style: none; padding: 0; margin: 0; align-items: center;">
+        <li><a href="index.html">Главная</a></li>
+        <li><a href="about.html">О Нас</a></li>
+        <li><a href="iaido.html">Иайдо</a></li>
+        <li><a href="news.html">Новости</a></li>
+				<nav class="nav-menu">
+					<a href="index.html"><button class="nav-btn">Главная</button></a>
+					<a href="about.html"><button class="nav-btn active">О Нас</button></a>
+					<a href="news.html"><button class="nav-btn">Новости</button></a>
+					<a href="trainings.html"
+						><button class="nav-btn">Тренировки</button></a
+					>
+					<a href="photo.html"><button class="nav-btn">Фото</button></a>
+					<a href="contact.html"><button class="nav-btn">Контакт</button></a>
+					<a href="links.html"><button class="nav-btn">Ссылки</button></a>
+				</nav>
+			</div>
+		</div>
+		<main class="main-content">
+			<div
+				class="card"
+				style="
+					display: flex;
+					gap: 36px;
+					align-items: flex-start;
+					flex-wrap: wrap;
+				"
+			>
+				<div style="flex: 1; min-width: 260px">
+					<h2>О Федерации</h2>
+					<p style="font-size: 1.15em; color: #3e4e4b">
+						<span style="color: #6e8b87; font-weight: 600"
+							>Федерация Кендо Кыргызстана</span
+						>
+						— это команда единомышленников, объединённых любовью к японской
+						культуре и искусству меча. Мы развиваем кэндо с 2008 года, проводим
+						тренировки, семинары, турниры и поддерживаем международные связи.
+					</p>
+					<blockquote
+						style="
+							margin: 18px 0;
+							color: #d34c4c;
+							border-left: 4px solid #6e8b87;
+							padding-left: 16px;
+							font-style: italic;
+						"
+					>
+						"Кэндо — это не только спорт, это путь к гармонии духа и тела."
+					</blockquote>
+					<ul style="margin-top: 18px; color: #3e4e4b">
+						<li>Более 15 лет развития и популяризации кэндо</li>
+						<li>Профессиональные тренеры и сертифицированные судьи</li>
+						<li>Регулярные мастер-классы с японскими сенсеями</li>
+						<li>Дружеское сообщество и поддержка новичков</li>
+					</ul>
+				</div>
+				<img
+					src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80"
+					alt="team"
+					style="
+						border-radius: 14px;
+						max-width: 320px;
+						width: 100%;
+						box-shadow: 0 2px 12px rgba(110, 139, 135, 0.13);
+					"
+				/>
+			</div>
+		</main>
+		<footer>© 2025 Кыргызская Федерация Кендо</footer>
+		<script src="script.js"></script>
+	</body>
+</html>

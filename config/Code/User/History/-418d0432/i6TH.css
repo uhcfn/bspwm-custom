@@ -1,0 +1,117 @@
+/* Основной стиль сайта лицея */
+
+body {
+	margin: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #f8f9fa;
+	color: #333;
+	line-height: 1.6;
+}
+
+header {
+	background-color: #00796b;
+	color: white;
+	padding: 20px;
+}
+
+header .logo {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+}
+
+header img {
+	width: 50px;
+	height: auto;
+}
+
+header h1 {
+	font-size: 1.5em;
+	margin: 0;
+}
+
+nav ul {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+	list-style: none;
+	padding: 10px 0 0 0;
+	margin: 0;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	transition: 0.3s;
+}
+
+nav ul li a:hover {
+	text-decoration: underline;
+}
+
+main {
+	padding: 20px;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+section {
+	margin-bottom: 40px;
+}
+
+h2,
+h3,
+h4 {
+	color: #004d40;
+}
+
+.news-container {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.news-container article {
+	background-color: white;
+	padding: 15px;
+	border-left: 5px solid #00796b;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+form#register-form {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	background: white;
+	padding: 20px;
+	border: 1px solid #ccc;
+	max-width: 400px;
+}
+
+form#register-form input,
+form#register-form select,
+form#register-form button {
+	padding: 10px;
+	font-size: 1em;
+}
+
+form#register-form button {
+	background-color: #00796b;
+	color: white;
+	border: none;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+form#register-form button:hover {
+	background-color: #004d40;
+}
+
+footer {
+	text-align: center;
+	padding: 20px;
+	background-color: #eeeeee;
+	color: #555;
+	font-size: 0.9em;
+}
